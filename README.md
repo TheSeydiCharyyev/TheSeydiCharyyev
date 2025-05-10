@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Seydi Charyev</h1>
-<h3 align="center">Programmer | Teacher | Artist</h3>
+<h3 align="center">Software Developer| Mentor | </h3>
 
 ---
 
