@@ -9,7 +9,7 @@
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
     </td>
     <td>
-      <h3 style="color: #ccc"><em>“Survival belongs not to the strongest, but to the one who never gave up.”</em></h3>
+      <h3 style="color: #ccc"><em>“It's not the strongest who survives, but the one who never gave up”</em></h3>
     </td>
   </tr>
 </table>
