@@ -65,7 +65,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=radical&border_radius=15&hide_border=false" width="60%" alt="Top Languages" />
 
 </div>
-
 ---
 
 ### 📬 Contact Me
