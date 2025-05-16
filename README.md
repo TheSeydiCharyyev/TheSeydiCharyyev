@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Seydi Charyev</h1>
-<h3 align="center">Software Developer| Mentor | </h3>
+<h1 align="center">Hi 👋, I'm Seydi Charyyev</h1>
+<h3 align="center">Software Developer| Mentor |  </h3>
 
 ---
 
@@ -56,13 +56,14 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&theme=radical&border_radius=15&hide_border=false" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSeydiCharyyev&theme=radical&hide_border=false&border_radius=15" width="48%" />
-</div>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=radical&border_radius=15&hide_border=false" width="60%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&theme=radical&border_radius=15&hide_border=false" width="48%" alt="GitHub Stats" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSeydiCharyyev&theme=radical&hide_border=false&border_radius=15" width="48%" alt="GitHub Streak" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=radical&border_radius=15&hide_border=false" width="60%" alt="Top Languages" />
+
 </div>
 
 ---
