@@ -86,13 +86,14 @@
 
 ---
 
-<h3 align="center">📊 GitHub Visitors</h3>
+<h3 align="center">📈 GitHub Visitors</h3>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@TheSeydiCharyyev-counter?theme=transparent" alt="Visitor Counter" />
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheSeydiCharyyev&count_bg=%237C83EE&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=false"/>
   <br/>
-  <img src="https://img.shields.io/badge/Since-June_2024-blue?style=flat-square" alt="Since" />
+  <img src="https://img.shields.io/badge/Since-June_2024-blue?style=flat-square" alt="Since June 2024" />
   <img src="https://img.shields.io/badge/Initial-0-lightgrey?style=flat-square" alt="Initial Count" />
 </p>
+
 
 
