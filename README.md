@@ -86,7 +86,11 @@
 
 ---
 
+<h3 align="center">📈 GitHub Profile Stats</h3>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=Profile%20views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <img src="https://wakatime.com/badge/user/your-wakatime-id.svg" alt="WakaTime" />
+  <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=👀 Visitors%20since%202024&color=blueviolet&style=flat-square" alt="Visitors" />
+  <img src="https://img.shields.io/badge/Started-June_2024-blue?style=flat-square" alt="Start Date" />
+  <img src="https://img.shields.io/badge/Initial_Visits-500-purple?style=flat-square" alt="Initial Count" />
 </div>
+
