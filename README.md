@@ -89,7 +89,7 @@
 <h3 align="center">📊 GitHub Visitors</h3>
 
 <p align="center">
-  <img src="https://count.getloli.com/get/@TheSeydiCharyyev-counter?theme=moebooru" alt="Visitor Counter" />
+  <img src="https://count.getloli.com/get/@TheSeydiCharyyev-counter?theme=transparent" alt="Visitor Counter" />
   <br/>
   <img src="https://img.shields.io/badge/Since-June_2024-blue?style=flat-square" alt="Since" />
   <img src="https://img.shields.io/badge/Initial-0-lightgrey?style=flat-square" alt="Initial Count" />
