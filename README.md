@@ -3,7 +3,7 @@
   
   <p align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=5000&pause=1000&color=8A89D0&center=true&vCenter=true&width=700&lines=%E2%80%9CIt's+not+the+strongest+who+survives%2C+but+the+one+who+never+gave+up%E2%80%9D" alt="Quote" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=4000&pause=1000&color=8A89D0&center=true&vCenter=true&width=600&lines=%E2%80%9CIt's+not+the+strongest+who+survives%2C+but+the+one+who+never+gave+up%E2%80%9D" alt="Quote" />
     </a>
   </p>
   
@@ -14,14 +14,18 @@
 
 ## 🚀 About Me
 
-<p align="left">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=radical&hide_border=true" width="300" alt="Top Languages" />
-  
-  - 💻 Full-stack developer passionate about **web & mobile technologies**
-  - 👨‍🏫 Experienced mentor in **programming education**
-  - 🌍 Based in **Mary, Turkmenistan**
-  - 🗣️ Fluent in **Turkmen (native)**, **English**, and **Russian**
-  - 🔭 Currently exploring **AI/ML integration in web apps**
+- 💻 Full-stack developer passionate about **web & mobile technologies**  
+- 👨‍🏫 Experienced mentor in **programming education**  
+- 🌍 Based in **Mary, Turkmenistan**  
+- 🗣️ Fluent in **Turkmen (native)**, **English**, and **Russian**  
+- 🔭 Currently exploring **AI/ML integration in web apps**
+
+---
+
+## 📚 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
