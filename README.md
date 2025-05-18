@@ -86,14 +86,14 @@
 
 ---
 
-<h3 align="center">🔥 Profile Hits</h3>
+<h3 align="center">👀 GitHub Visitors</h3>
+
 <p align="center">
-  <a href="https://reppy.io/@TheSeydiCharyyev" target="_blank" rel="noopener noreferrer">
-    <img src="https://reppy.io/badge/@TheSeydiCharyyev?style=fire" alt="Profile Hits" />
-  </a>
+  <img src="https://count.getloli.com/get/@TheSeydiCharyyev-counter?theme=moebooru" alt="Visitor Counter" />
   <br/>
-  <img src="https://img.shields.io/badge/Since-June_2024-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Since-October_2024-blue?style=flat-square" alt="Since October 2024" />
 </p>
+
 
 
 
