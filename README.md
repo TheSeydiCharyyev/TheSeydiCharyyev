@@ -86,11 +86,13 @@
 
 ---
 
-<h3 align="center">📈 GitHub Profile Stats</h3>
+<h3 align="center">📊 GitHub Visitors</h3>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=👀 Visitors%20since%202024&color=blueviolet&style=flat-square" alt="Visitors" />
-  <img src="https://img.shields.io/badge/Started-June_2024-blue?style=flat-square" alt="Start Date" />
-  <img src="https://img.shields.io/badge/Initial_Visits-500-purple?style=flat-square" alt="Initial Count" />
-</div>
+<p align="center">
+  <img src="https://count.getloli.com/get/@TheSeydiCharyyev-counter?theme=rule34" alt="Visitor Counter" />
+  <br/>
+  <img src="https://img.shields.io/badge/Since-June_2024-blue?style=flat-square" alt="Since" />
+  <img src="https://img.shields.io/badge/Initial-0-lightgrey?style=flat-square" alt="Initial Count" />
+</p>
+
 
