@@ -86,10 +86,11 @@
 
 ---
 
-<h3 align="center">👀 Who's Watching?</h3>
-
+<h3 align="center">🔥 Profile Hits</h3>
 <p align="center">
-  <img src="https://visitor-badge.laobi.dev/badge?page_id=TheSeydiCharyyev.visitor-badge" alt="Visitors" />
+  <a href="https://reppy.io/@TheSeydiCharyyev" target="_blank" rel="noopener noreferrer">
+    <img src="https://reppy.io/badge/@TheSeydiCharyyev?style=fire" alt="Profile Hits" />
+  </a>
   <br/>
   <img src="https://img.shields.io/badge/Since-June_2024-blue?style=flat-square" />
 </p>
