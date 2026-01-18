@@ -1,114 +1,187 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Seydi%20Charyyev&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%91%8B+Hi+there!+I'm+Seydi+Charyyev;Fullstack+Engineer+%7C+Mobile+Developer;Mentor+%40+Algoritm+Education+Center" alt="Typing SVG" />
+</a>
+
+<div align="center">
+
+<a href="mailto:seydi.charyev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/seydi-charyyev">
+  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://t.me/TheSeydiCharyyev">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://theseydicharyyev.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+
+</div>
+
+<br>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Fullstack+Engineer+%7C+Mobile+Developer;Mentor+%40+Algoritm+Education+Center;Building+apps+that+matter+%F0%9F%9A%80;React+%7C+Flutter+%7C+Django+%7C+FastAPI" alt="Typing SVG" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
-</p>
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
-
-<p align="center">
-
-```javascript
-const seydi = {
-  location: "Turkmenistan",
-  role: "Fullstack Engineer & Mentor",
-  code: ["Python", "JavaScript", "TypeScript", "Dart"],
-  focus: ["React", "Flutter", "Django", "FastAPI"],
-  funFact: "From Delphi to Flutter — evolution!",
-  goal: "Build apps that help people"
-};
-```
-
+Welcome to my GitHub! I'm a Fullstack Engineer & Mobile Developer from Turkmenistan. Currently working as a Mentor at Algoritm Education Center, teaching Python, React, and Flutter to the next generation of developers. I love building apps that help people and exploring new technologies.
 </p>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="28" /> &nbsp;Tech Arsenal
+## My favorite tools and technologies ⚙️
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+> Tools and technologies that I have worked with and am interested in
 
-### Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,typescript&theme=dark" />
-
-</td>
-<td align="center" width="50%">
-
-### Backend
-<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,nestjs&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=python,graphql,redis,rabbitmq&theme=dark" />
-
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### Mobile
-<img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=firebase,androidstudio&theme=dark" />
-
-</td>
-<td align="center" width="50%">
-
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,linux&theme=dark" /><br>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+      <br>GitHub
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+      <br>Flutter
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+      <br>Dart
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+      <br>Kotlin
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
+      <br>Swift
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+      <br>Next.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+      <br>Vue
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+      <br>Angular
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+      <br>FastAPI
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+      <br>CSS
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+      <br>Tailwind
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+      <br>Redis
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+      <br>Firebase
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br>Linux
+    </td>
+  </tr>
 </table>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="28" /> &nbsp;GitHub Stats
+## Github stats 📊
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=6366F1&text_color=c9d1d9" alt="Stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=TheSeydiCharyyev&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=6366F1&currStreakLabel=6366F1" alt="Streak"/>
-</p>
+<details>
+  <summary>GitHub Profile Stats 💻</summary>
+  <br/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Seydi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=TheSeydiCharyyev&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img alt="Seydi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/>
+  </a>
+  <br/>
+</details>
 
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1" alt="Languages"/>
-</p>
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Seydi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Globe%20Showing%20Europe-Africa.png" alt="Globe" width="28" /> &nbsp;Languages I Speak
+## 🌐 Languages I Speak
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Turkmen-Native-6366F1?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Russian-C1-8B5CF6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/English-B2-A78BFA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/German-A2-C4B5FD?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/French-A2-DDD6FE?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Chinese-HSK2-EDE9FE?style=for-the-badge"/>
-</p>
-
----
-
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Link.png" alt="Link" width="28" /> &nbsp;Connect
-
-<p align="center">
-  <a href="mailto:seydi.charyev@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://linkedin.com/in/seydi-charyyev">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://theseydicharyyev.github.io/portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://t.me/TheSeydiCharyyev">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+| 🇹🇲 Turkmen | 🇷🇺 Russian | 🇬🇧 English | 🇩🇪 German | 🇫🇷 French | 🇨🇳 Chinese |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Native | C1 | B2 | A2 | A2 | HSK2 |
