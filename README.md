@@ -1,100 +1,60 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4ecdc4,100:45b7d1&height=150&section=header&text=&fontSize=0"/>
-
 <div align="center">
-
-![Visitors](https://komarev.com/ghpvc/?username=TheSeydiCharyyev&color=45b7d1&style=for-the-badge&label=TRAVELERS)
-
-<br/>
-
-# Hey, I'm Seydi 👋
-
-### This is my story...
-
-<br/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🗺️ The Journey
-
-</div>
-
-<br/>
 
 ```
-                                    🎯 NOW
-                                      │
-                                      │  "Making technology accessible to everyone"
-                                      │
-                              ┌───────┴───────┐
-                              │   🎓 MENTOR   │
-                              │  Teaching the │
-                              │ next generation│
-                              └───────┬───────┘
-                                      │
-                    ══════════════════╪══════════════════  2024
-                                      │
-                              ┌───────┴───────┐
-                              │  ⚙️ BACKEND   │
-                              │  Discovered   │
-                              │  the magic    │
-                              │ behind scenes │
-                              └───────┬───────┘
-                                      │
-                    ══════════════════╪══════════════════  2022-2024
-                                      │
-                              ┌───────┴───────┐
-                              │  🎨 FRONTEND  │
-                              │  Fell in love │
-                              │  with React   │
-                              └───────┬───────┘
-                                      │
-                    ══════════════════╪══════════════════  2022
-                                      │
-                              ┌───────┴───────┐
-                              │  🌱 INTERN    │
-                              │  First code   │
-                              │  First bugs   │
-                              │  First magic  │
-                              └───────┬───────┘
-                                      │
-                    ══════════════════╪══════════════════  BEGINNING
-                                      │
-                              ┌───────┴───────┐
-                              │  👶 STUDENT   │
-                              │   C++ & Delphi │
-                              │  "Hello World" │
-                              └───────┬───────┘
-                                      │
-                                    🏠 HOME
-                            Mary, Turkmenistan
+╔══════════════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                          ║
+║   ███████╗███████╗██╗   ██╗██████╗ ██╗     ██████╗██╗  ██╗ █████╗ ██████╗ ██╗   ██╗██╗   ║
+║   ██╔════╝██╔════╝╚██╗ ██╔╝██╔══██╗██║    ██╔════╝██║  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝██║   ║
+║   ███████╗█████╗   ╚████╔╝ ██║  ██║██║    ██║     ███████║███████║██████╔╝ ╚████╔╝ █████╗║
+║   ╚════██║██╔══╝    ╚██╔╝  ██║  ██║██║    ██║     ██╔══██║██╔══██║██╔══██╗  ╚██╔╝  ╚════╝║
+║   ███████║███████╗   ██║   ██████╔╝██║    ╚██████╗██║  ██║██║  ██║██║  ██║   ██║   ██╗   ║
+║   ╚══════╝╚══════╝   ╚═╝   ╚═════╝ ╚═╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝   ║
+║                                                                                          ║
+╚══════════════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<br/>
+![Visitors](https://komarev.com/ghpvc/?username=TheSeydiCharyyev&color=00ff00&style=flat-square&label=CONNECTIONS)
 
----
+</div>
+
+```javascript
+/**
+ * @author Seydi Charyyev
+ * @location Mary, Turkmenistan
+ * @role Fullstack Engineer & Mobile Developer
+ * @status Online
+ */
+
+const seydi = {
+
+    identity: {
+        name: "Seydi Charyyev",
+        location: "Mary, Turkmenistan",
+        class: "Fullstack Engineer & Mobile Developer",
+        current: "Mentor @ Algoritm Education Center"
+    },
+
+    philosophy: [
+        "It's not the strongest who survives,",
+        "but the one who never gave up."
+    ],
+
+    mission: "Making technology accessible to everyone",
+
+    contact: {
+        email: "seydi.charyev@gmail.com",
+        linkedin: "seydi-charyyev",
+        portfolio: "theseydicharyyev.github.io/portfolio"
+    }
+
+};
+```
 
 <div align="center">
 
-## 💭 The Philosophy
-
-<br/>
-
-> *"It's not the strongest who survives,*
-> *but the one who never gave up"*
-
-<br/>
-
-**Code is just a tool.**
-
-The real magic happens when you solve problems that matter.
-
-Every project I build, every lesson I teach — it's all part of one mission.
-
-<br/>
+[![Email](https://img.shields.io/badge/[EMAIL]-00ff00?style=flat-square&logoColor=black)](mailto:seydi.charyev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/[LINKEDIN]-00ff00?style=flat-square&logoColor=black)](https://linkedin.com/in/seydi-charyyev)
+[![Portfolio](https://img.shields.io/badge/[PORTFOLIO]-00ff00?style=flat-square&logoColor=black)](https://theseydicharyyev.github.io/portfolio/)
 
 </div>
 
@@ -102,192 +62,218 @@ Every project I build, every lesson I teach — it's all part of one mission.
 
 <div align="center">
 
-## 🎒 The Toolkit
+## > SYSTEM.skills.load()_
 
 </div>
 
-<br/>
+```python
+# ═══════════════════════════════════════════════════════════════════════
+#                           SKILL MATRIX v2.0
+# ═══════════════════════════════════════════════════════════════════════
 
-<table align="center">
-<tr>
-<td align="center" width="200">
+class Developer:
 
-**🗡️ Weapons**
+    def __init__(self):
 
-*Languages I speak to machines*
+        self.languages = {
+            "legacy":  ["C", "C++", "C#", "Java", "Delphi", "Pascal"],
+            "modern":  ["Python", "JavaScript", "TypeScript", "Dart", "Kotlin", "Swift"]
+        }
 
-</td>
-<td>
+        self.frontend = {
+            "core":       ["HTML5", "CSS3", "Sass"],
+            "frameworks": ["React", "Next.js", "Vue", "Nuxt", "Angular", "Svelte"],
+            "styling":    ["Tailwind", "Bootstrap", "Material UI"]
+        }
 
-<p align="center">
+        self.backend = {
+            "python":     ["Django", "FastAPI", "Flask"],
+            "javascript": ["Node.js", "Express", "NestJS"],
+            "other":      ["Spring Boot", "ASP.NET", "Laravel", "GraphQL"]
+        }
+
+        self.mobile = {
+            "cross":  ["Flutter", "React Native"],
+            "native": ["Kotlin/Android", "Swift/iOS"],
+            "tools":  ["Firebase", "Expo", "Android Studio", "Xcode"]
+        }
+
+        self.databases = {
+            "sql":   ["PostgreSQL", "MySQL", "SQLite", "MS SQL"],
+            "nosql": ["MongoDB", "Redis", "Firebase", "DynamoDB"]
+        }
+
+        self.devops = {
+            "containers": ["Docker", "Kubernetes"],
+            "cloud":      ["AWS", "GCP", "Azure"],
+            "ci_cd":      ["GitHub Actions", "Jenkins"],
+            "servers":    ["Nginx", "Linux"]
+        }
+
+# Initialize developer instance
+dev = Developer()
+print(f"[+] Skills loaded successfully")
+print(f"[+] Ready to code...")
+```
+
+<div align="center">
+
+<p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,kotlin,swift,cpp,java&theme=light&perline=4" />
+<img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,c,cpp,java,kotlin,swift&theme=dark" />
 </a>
 </p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**🌐 Web Crafting**
-
-*Building experiences*
-
-</td>
-<td>
-
-<p align="center">
+<p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,django,fastapi,nodejs,nestjs&theme=light&perline=4" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,html,css,sass&theme=dark" />
 </a>
 </p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**📱 Mobile Magic**
-
-*Apps in your pocket*
-
-</td>
-<td>
-
-<p align="center">
+<p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=flutter,react,kotlin,swift,firebase,androidstudio&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,nestjs,express,graphql,flask,spring&theme=dark" />
 </a>
 </p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**🗄️ Data Vaults**
-
-*Where memories live*
-
-</td>
-<td>
-
-<p align="center">
+<p>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,firebase,supabase,mysql&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase,postgresql,mongodb,redis,docker,kubernetes,aws,linux&theme=dark" />
 </a>
 </p>
 
-</td>
-</tr>
-<tr>
-<td align="center">
-
-**🛠️ Gear**
-
-*Tools of the trade*
-
-</td>
-<td>
-
-<p align="center">
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=git,docker,aws,linux,vscode,figma&theme=light&perline=3" />
-</a>
-</p>
-
-</td>
-</tr>
-</table>
-
-<br/>
+</div>
 
 ---
 
 <div align="center">
 
-## 🌍 Languages of the World
-
-<br/>
-
-🇹🇲 **Turkmen** — *where it all started*
-
-↓
-
-🇷🇺 **Russian** — *thinking & working*
-
-↓
-
-🇬🇧 **English** — *code & global reach*
-
-↓
-
-🇩🇪 **German** + 🇫🇷 **French** — *opening doors*
-
-↓
-
-🇨🇳 **Chinese** — *1.4 billion new friends*
+## > CAREER.log --reverse_
 
 </div>
 
-<br/>
+```bash
+┌─[seydi@dev]─[~/career]
+└──╼ cat history.log | sort -r
+
+[2024-PRESENT] ══════════════════════════════════════════════════════════════
+    STATUS:   ACTIVE
+    ROLE:     Mentor
+    LOCATION: Algoritm Education Center
+    TASK:     Teaching the next generation of developers
+    OUTPUT:   Watching students go from "Hello World" to shipping projects
+
+[2024] ══════════════════════════════════════════════════════════════════════
+    STATUS:   COMPLETED
+    ROLE:     Backend Developer
+    LOCATION: Jahankeshde Hyzmat
+    TASK:     Building RESTful APIs with Django
+    OUTPUT:   Learned that the real magic happens behind the scenes
+
+[2022-2024] ═════════════════════════════════════════════════════════════════
+    STATUS:   COMPLETED
+    ROLE:     Frontend Developer
+    LOCATION: Ynamly Geljek
+    TASK:     Crafting user interfaces with React
+    OUTPUT:   Fell in love with React, shipped multiple projects
+
+[2022] ══════════════════════════════════════════════════════════════════════
+    STATUS:   COMPLETED
+    ROLE:     Intern
+    LOCATION: Ynamly Geljek
+    TASK:     Learning the ropes
+    OUTPUT:   First job, first codebase, first "it works on my machine"
+
+└──╼ echo "Journey continues..."
+```
 
 ---
 
 <div align="center">
 
-## 📊 The Stats
+## > GITHUB.stats()_
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&hide_border=true&bg_color=ffffff&title_color=45b7d1&icon_color=ff6b6b&text_color=333333&ring_color=4ecdc4" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&hide_border=true&bg_color=ffffff&title_color=45b7d1&text_color=333333" alt="Top Languages" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00" alt="GitHub Stats" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" height="170" />
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSeydiCharyyev&hide_border=true&background=ffffff&ring=ff6b6b&fire=ff6b6b&currStreakLabel=45b7d1&sideLabels=333333&dates=999999&currStreakNum=333333&sideNums=333333" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSeydiCharyyev&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&dates=555555&currStreakNum=00ff00&sideNums=00ff00" alt="GitHub Streak" />
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&hide_border=true&bg_color=ffffff&color=333333&line=45b7d1&point=ff6b6b&area=true&area_color=4ecdc4" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&hide_border=true&bg_color=0d1117&color=c9d1d9&line=00ff00&point=00ff00&area=true&area_color=00ff00" alt="Contribution Graph" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/output/github-snake.svg" />
+</picture>
 
 </div>
-
-<br/>
 
 ---
 
 <div align="center">
 
-## 🤝 Continue the Story?
+## > LANGUAGES.human[]_
 
-<br/>
-
-*Have a project in mind?*
-
-*Looking for a mentor?*
-
-*Or just want to say hi?*
-
-<br/>
-
-[![Email](https://img.shields.io/badge/📬_Write_to_me-ff6b6b?style=for-the-badge)](mailto:seydi.charyev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/🤝_Connect-45b7d1?style=for-the-badge)](https://linkedin.com/in/seydi-charyyev)
-[![Portfolio](https://img.shields.io/badge/🏠_Visit_home-4ecdc4?style=for-the-badge)](https://theseydicharyyev.github.io/portfolio/)
-
-<br/><br/>
-
----
-
-<br/>
-
-### *"I just want to be successful enough to help people"*
-
-**— Seydi**
-
-<br/>
+```
+┌────────────────────────────────────────────────────────────────────┐
+│  LANG        │  LEVEL    │  PROFICIENCY                           │
+├────────────────────────────────────────────────────────────────────┤
+│  Turkmen     │  NATIVE   │  ████████████████████  100%            │
+│  Russian     │  C1       │  ██████████████████░░   90%            │
+│  English     │  B2       │  ████████████████░░░░   75%            │
+│  German      │  A2       │  ████████░░░░░░░░░░░░   40%            │
+│  French      │  A2       │  ████████░░░░░░░░░░░░   40%            │
+│  Chinese     │  HSK2     │  ██████░░░░░░░░░░░░░░   30%            │
+└────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:ff6b6b,50:4ecdc4,100:45b7d1&height=120&section=footer"/>
+---
+
+<div align="center">
+
+## > CONNECT.init()_
+
+```javascript
+// ═══════════════════════════════════════════════════════════════════
+//                    ESTABLISHING CONNECTION...
+// ═══════════════════════════════════════════════════════════════════
+
+if (you.have("project_idea") || you.need("mentor") || you.want("to_talk_code")) {
+
+    await connect({
+        email: "seydi.charyev@gmail.com",
+        linkedin: "/in/seydi-charyyev",
+        portfolio: "theseydicharyyev.github.io/portfolio"
+    });
+
+    console.log("[+] Connection established!");
+
+}
+
+// ═══════════════════════════════════════════════════════════════════
+```
+
+[![Email](https://img.shields.io/badge/>>_SEND_MESSAGE-00ff00?style=for-the-badge&logoColor=black)](mailto:seydi.charyev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/>>_CONNECT-00ff00?style=for-the-badge&logoColor=black)](https://linkedin.com/in/seydi-charyyev)
+[![Portfolio](https://img.shields.io/badge/>>_VISIT_BASE-00ff00?style=for-the-badge&logoColor=black)](https://theseydicharyyev.github.io/portfolio/)
+
+<br/><br/>
+
+```
+"I just want to be successful enough to help people"
+
+[PROCESS TERMINATED]
+[GOODBYE]
+```
+
+</div>
