@@ -10,11 +10,9 @@
   <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&color=6366f1&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
-<br>
-
-<img align="right" width="40%" src="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="28" /> &nbsp;About Me
+
+<p align="center">
 
 ```javascript
 const seydi = {
@@ -27,7 +25,7 @@ const seydi = {
 };
 ```
 
-<br clear="right"/>
+</p>
 
 ---
 
