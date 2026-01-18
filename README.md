@@ -223,32 +223,6 @@ const seydi: Developer = {
 
 ---
 
-<!-- MY JOURNEY -->
-## <img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="35"/> My Journey
-
-```mermaid
-timeline
-    title The Path So Far
-    section Early Days
-        2022 : 🎯 Intern at Ynamly Geljek
-             : First "it works on my machine" moment
-             : Discovered my passion for code
-    section Growth
-        2022-2024 : 💼 Frontend Developer
-                  : Mastered React ecosystem
-                  : Shipped production apps
-    section Backend Era
-        2024 : ⚙️ Backend at Jahankeshde Hyzmat
-             : Django & RESTful APIs
-             : Database architecture
-    section Giving Back
-        2024-Now : 🎓 Mentor at Algoritm
-                 : Teaching Python, React, Flutter
-                 : Building the next generation
-```
-
----
-
 <!-- LANGUAGES I SPEAK -->
 ## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="35"/> Languages I Speak
 
