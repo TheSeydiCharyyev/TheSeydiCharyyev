@@ -1,89 +1,96 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1d4ed8&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:4f46e5&height=120&section=header"/>
 
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=TheSeydiCharyyev&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
+![Visitors](https://komarev.com/ghpvc/?username=TheSeydiCharyyev&color=9333ea&style=for-the-badge&label=PROFILE+VIEWS)
 
-</div>
+<br/>
 
-```bash
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   $ whoami                                                                   │
-│   > Seydi Charyyev                                                           │
-│                                                                              │
-│   $ cat role.txt                                                             │
-│   > Fullstack Engineer & Mobile Developer                                    │
-│                                                                              │
-│   $ pwd                                                                      │
-│   > /home/mary/turkmenistan                                                  │
-│                                                                              │
-│   $ cat mission.txt                                                          │
-│   > "It's not the strongest who survives,                                    │
-│   >  but the one who never gave up"                                          │
-│                                                                              │
-│   $ ./current_status.sh                                                      │
-│   > Mentoring the next generation of developers @ Algoritm Education Center  │
-│                                                                              │
-│   $ echo $GOAL                                                               │
-│   > Making technology accessible to everyone                                 │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
+```
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                   ║
+║   ⚔️  SEYDI CHARYYEV                                        🎮 Level 99          ║
+║   ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━   ║
+║                                                                                   ║
+║   📍 Location: Mary, Turkmenistan                                                 ║
+║   🎭 Class: Fullstack Mage & Mobile Wizard                                        ║
+║   🏆 Title: Code Mentor                                                           ║
+║                                                                                   ║
+║   ═══════════════════════════════════════════════════════════════════════════════ ║
+║                                                                                   ║
+║   ❤️  HP        ████████████████████░░░░  85/100                                  ║
+║   ⚡  Mana      ██████████████████████░░  95/100                                  ║
+║   🔥  XP        ███████████████████░░░░░  78/100  → Next: Senior Architect        ║
+║   ⭐  Reputation ██████████████████████░░  92/100                                  ║
+║                                                                                   ║
+║   ═══════════════════════════════════════════════════════════════════════════════ ║
+║                                                                                   ║
+║   📜 LEGENDARY QUOTE:                                                             ║
+║   "It's not the strongest who survives, but the one who never gave up"            ║
+║                                                                                   ║
+║   🎯 CURRENT QUEST:                                                               ║
+║   Making technology accessible to everyone                                        ║
+║                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-seydi.charyev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydi.charyev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Seydi%20Charyyev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seydi-charyyev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://theseydicharyyev.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/📧_Send_Message-EA4335?style=for-the-badge&logoColor=white)](mailto:seydi.charyev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🤝_Party_Up-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/seydi-charyyev)
+[![Portfolio](https://img.shields.io/badge/🏰_Visit_Base-000000?style=for-the-badge&logoColor=white)](https://theseydicharyyev.github.io/portfolio/)
 
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> What I Work With
+## ⚔️ Skill Tree
 
-### Code Languages
+<div align="center">
 
-<p align="center">
-  <b>The Old School</b>
-</p>
+### 🗡️ Weapons (Languages)
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  ⚔️ LEGENDARY WEAPONS                        🛡️ CLASSIC ARSENAL    │
+├─────────────────────────────────────────────────────────────────────┤
+│  Python ████████████ MAX                     C    ████████░░ 80     │
+│  JavaScript ██████████ 95                    C++  ████████░░ 80     │
+│  TypeScript ██████████ 95                    C#   ███████░░░ 70     │
+│  Dart █████████░ 90                          Java ███████░░░ 70     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,kotlin,swift,c,cpp,cs,java&theme=dark" />
   </a>
 </p>
 
-<p align="center">
-  <b>The New Wave</b>
-</p>
+### 🧙‍♂️ Magic Spells (Web)
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  ✨ FRONTEND MAGIC                          🔮 BACKEND SORCERY     │
+├─────────────────────────────────────────────────────────────────────┤
+│  React ████████████ MASTERED                Django █████████░ 90    │
+│  Next.js ██████████ 95                      FastAPI ████████░ 85    │
+│  Vue ████████░░ 80                          Node.js ████████░ 85    │
+│  Angular ███████░░░ 70                      NestJS ███████░░ 75     │
+└─────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,kotlin,swift&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vue,angular,tailwind,django,fastapi,nodejs,express,nestjs&theme=dark" />
   </a>
 </p>
 
-### Building the Web
-
-<p align="center">
-  <b>What You See</b>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vue,nuxtjs,angular,svelte,tailwind,bootstrap&theme=dark" />
-  </a>
-</p>
-
-<p align="center">
-  <b>What You Don't</b>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,nestjs,spring,dotnet,laravel,graphql&theme=dark" />
-  </a>
-</p>
-
-### Mobile Craft
+### 📱 Summoning Arts (Mobile)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -91,7 +98,7 @@
   </a>
 </p>
 
-### Data Storage
+### 🗄️ Ancient Scrolls (Databases)
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -99,54 +106,70 @@
   </a>
 </p>
 
-### The Rest of the Toolkit
+### 🛠️ Enchanted Tools
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,aws,gcp,azure,linux,nginx,vscode,figma&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,aws,gcp,linux,nginx,vscode,figma&theme=dark" />
   </a>
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> The Path So Far
-
-```bash
-$ git log --oneline career
-
-2024-now  ████████░░  Chapter 4: Passing the Torch @ Algoritm Education Center
-                      Teaching the next generation of developers
-
-2024      ██████░░░░  Chapter 3: Building What You Don't See @ Jahankeshde Hyzmat
-                      The magic happens behind the scenes
-
-2022-2024 ████░░░░░░  Chapter 2: Crafting User Experiences @ Ynamly Geljek
-                      Fell in love with React
-
-2022      ██░░░░░░░░  Chapter 1: Where It All Began @ Ynamly Geljek
-                      First job, first codebase, first "it works on my machine"
-```
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Activity
+## 📜 Quest Log (Career)
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TheSeydiCharyyev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+```
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║  📜 COMPLETED QUESTS                                                              ║
+╠═══════════════════════════════════════════════════════════════════════════════════╣
+║                                                                                   ║
+║  🏆 CHAPTER 4: Passing the Torch                          [2024 - PRESENT]        ║
+║     📍 Algoritm Education Center | 🎭 Mentor                                      ║
+║     ⭐ Teaching the next generation of developers                                 ║
+║     💎 REWARD: Seeing students succeed                                            ║
+║                                                                                   ║
+║  ⚔️ CHAPTER 3: Building What You Don't See                [2024]                  ║
+║     📍 Jahankeshde Hyzmat | 🎭 Backend Developer                                  ║
+║     ⭐ Discovered the magic behind the scenes                                     ║
+║     💎 REWARD: +50 Backend Skills                                                 ║
+║                                                                                   ║
+║  🛡️ CHAPTER 2: Crafting User Experiences                  [2022 - 2024]          ║
+║     📍 Ynamly Geljek | 🎭 Frontend Developer                                      ║
+║     ⭐ Fell in love with React                                                    ║
+║     💎 REWARD: +100 React Mastery                                                 ║
+║                                                                                   ║
+║  🗡️ CHAPTER 1: Where It All Began                         [2022]                  ║
+║     📍 Ynamly Geljek | 🎭 Intern                                                  ║
+║     ⭐ First codebase, first "it works on my machine"                             ║
+║     💎 REWARD: Developer Class Unlocked                                           ║
+║                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## 🏆 Achievement Hall
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TheSeydiCharyyev&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6" alt="GitHub Stats" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9333ea&icon_color=9333ea&text_color=c9d1d9&ring_color=9333ea" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9333ea&text_color=c9d1d9" alt="Top Languages" height="180" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSeydiCharyyev&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSeydiCharyyev&theme=tokyonight&hide_border=true&background=0D1117&ring=9333ea&fire=9333ea&currStreakLabel=9333ea&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=c9d1d9&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=c9d1d9&line=9333ea&point=9333ea&area=true&area_color=9333ea" alt="Contribution Graph" />
 
 </div>
 
@@ -162,14 +185,22 @@ $ git log --oneline career
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> Not Just Programming Languages
+## 🌍 Languages Unlocked
 
 <div align="center">
 
-| <img src="https://flagcdn.com/w40/tm.png" width="30"/> | <img src="https://flagcdn.com/w40/ru.png" width="30"/> | <img src="https://flagcdn.com/w40/gb.png" width="30"/> | <img src="https://flagcdn.com/w40/de.png" width="30"/> | <img src="https://flagcdn.com/w40/fr.png" width="30"/> | <img src="https://flagcdn.com/w40/cn.png" width="30"/> |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| **Turkmen** | **Russian** | **English** | **German** | **French** | **Chinese** |
-| Native | C1 | B2 | A2 | A2 | HSK 2 |
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│  🏳️ LANGUAGE          │  📊 LEVEL    │  🎯 BONUS                    │
+├─────────────────────────────────────────────────────────────────────┤
+│  🇹🇲 Turkmen           │  ★★★★★ Native │  +100% Local Quests         │
+│  🇷🇺 Russian           │  ★★★★☆ C1     │  +50% Eastern Europe        │
+│  🇬🇧 English           │  ★★★☆☆ B2     │  +75% Global Communication  │
+│  🇩🇪 German            │  ★★☆☆☆ A2     │  +25% EU Access             │
+│  🇫🇷 French            │  ★★☆☆☆ A2     │  +20% Elegance              │
+│  🇨🇳 Chinese           │  ★★☆☆☆ HSK2   │  +1.4B Potential Allies     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
 </div>
 
@@ -177,27 +208,28 @@ $ git log --oneline career
 
 <div align="center">
 
-## Let's Connect
+## 🎮 Join My Party!
 
-```bash
-$ cat contact.sh
-
-#!/bin/bash
-echo "Have a project in mind?"
-echo "Looking for a mentor?"
-echo "Or just want to talk code?"
-echo ""
-echo "Let's make it happen."
+```
+╔═══════════════════════════════════════════════════════════════════════════════════╗
+║                                                                                   ║
+║   🎯 Have a quest in mind?                                                        ║
+║   🧙 Looking for a mentor?                                                        ║
+║   ⚔️ Or just want to team up?                                                     ║
+║                                                                                   ║
+║   Let's conquer challenges together!                                              ║
+║                                                                                   ║
+╚═══════════════════════════════════════════════════════════════════════════════════╝
 ```
 
-[![Email](https://img.shields.io/badge/Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydi.charyev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seydi-charyyev)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/TheSeydiCharyyev)
+[![Email](https://img.shields.io/badge/📧_Send_Raven-EA4335?style=for-the-badge&logoColor=white)](mailto:seydi.charyev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🤝_Join_Guild-0A66C2?style=for-the-badge&logoColor=white)](https://linkedin.com/in/seydi-charyyev)
+[![LeetCode](https://img.shields.io/badge/⚔️_Battle_Arena-FFA116?style=for-the-badge&logoColor=black)](https://leetcode.com/TheSeydiCharyyev)
 
 <br/>
 
-### *"I just want to be successful enough to help people"*
+### ✨ *"I just want to be successful enough to help people"* ✨
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1d4ed8&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:9333ea,100:4f46e5&height=120&section=footer"/>
