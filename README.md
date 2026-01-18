@@ -27,9 +27,7 @@ Welcome to my GitHub! I'm a Fullstack Engineer & Mobile Developer from Turkmenis
 
 ---
 
-## My favorite tools and technologies ⚙️
-
-> Tools and technologies that I have worked with and am interested in
+## What I Work With ⚙️
 
 <table>
   <tr>
