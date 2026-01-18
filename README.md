@@ -69,12 +69,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=TheSeydiCharyyev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=TheSeydiCharyyev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
 </p>
 
 ---
