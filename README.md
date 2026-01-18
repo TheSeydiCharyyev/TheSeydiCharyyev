@@ -1,279 +1,172 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════════════════╗
-║                                                                                          ║
-║   ███████╗███████╗██╗   ██╗██████╗ ██╗     ██████╗██╗  ██╗ █████╗ ██████╗ ██╗   ██╗██╗   ║
-║   ██╔════╝██╔════╝╚██╗ ██╔╝██╔══██╗██║    ██╔════╝██║  ██║██╔══██╗██╔══██╗╚██╗ ██╔╝██║   ║
-║   ███████╗█████╗   ╚████╔╝ ██║  ██║██║    ██║     ███████║███████║██████╔╝ ╚████╔╝ █████╗║
-║   ╚════██║██╔══╝    ╚██╔╝  ██║  ██║██║    ██║     ██╔══██║██╔══██║██╔══██╗  ╚██╔╝  ╚════╝║
-║   ███████║███████╗   ██║   ██████╔╝██║    ╚██████╗██║  ██║██║  ██║██║  ██║   ██║   ██╗   ║
-║   ╚══════╝╚══════╝   ╚═╝   ╚═════╝ ╚═╝     ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝   ║
-║                                                                                          ║
-╚══════════════════════════════════════════════════════════════════════════════════════════╝
-```
+# The Story of Seydi Charyyev
 
-![Visitors](https://komarev.com/ghpvc/?username=TheSeydiCharyyev&color=00ff00&style=flat-square&label=CONNECTIONS)
+*A developer's journey from curiosity to creation*
 
-</div>
-
-```javascript
-/**
- * @author Seydi Charyyev
- * @location Mary, Turkmenistan
- * @role Fullstack Engineer & Mobile Developer
- * @status Online
- */
-
-const seydi = {
-
-    identity: {
-        name: "Seydi Charyyev",
-        location: "Mary, Turkmenistan",
-        class: "Fullstack Engineer & Mobile Developer",
-        current: "Mentor @ Algoritm Education Center"
-    },
-
-    philosophy: [
-        "It's not the strongest who survives,",
-        "but the one who never gave up."
-    ],
-
-    mission: "Making technology accessible to everyone",
-
-    contact: {
-        email: "seydi.charyev@gmail.com",
-        linkedin: "seydi-charyyev",
-        portfolio: "theseydicharyyev.github.io/portfolio"
-    }
-
-};
-```
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/[EMAIL]-00ff00?style=flat-square&logoColor=black)](mailto:seydi.charyev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/[LINKEDIN]-00ff00?style=flat-square&logoColor=black)](https://linkedin.com/in/seydi-charyyev)
-[![Portfolio](https://img.shields.io/badge/[PORTFOLIO]-00ff00?style=flat-square&logoColor=black)](https://theseydicharyyev.github.io/portfolio/)
+![Visitors](https://komarev.com/ghpvc/?username=TheSeydiCharyyev&color=6366f1&style=for-the-badge&label=Readers)
 
 </div>
 
 ---
 
+## Chapter 1: The Beginning
+
+> *"It's not the strongest who survives, but the one who never gave up."*
+
+Hello, I'm **Seydi Charyyev** — a Fullstack Engineer & Mobile Developer from **Mary, Turkmenistan**.
+
+My story began with a simple question: *"How do these things work?"* That curiosity led me down a path of endless learning, late-night coding sessions, and the beautiful struggle of turning ideas into reality.
+
+Today, I serve as a **Mentor at Algoritm Education Center**, where I have the privilege of guiding the next generation of developers through their own journeys.
+
 <div align="center">
 
-## > SYSTEM.skills.load()_
+[![Email](https://img.shields.io/badge/Email-seydi.charyev@gmail.com-6366f1?style=flat-square)](mailto:seydi.charyev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-seydi--charyyev-6366f1?style=flat-square)](https://linkedin.com/in/seydi-charyyev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-6366f1?style=flat-square)](https://theseydicharyyev.github.io/portfolio/)
 
 </div>
 
-```python
-# ═══════════════════════════════════════════════════════════════════════
-#                           SKILL MATRIX v2.0
-# ═══════════════════════════════════════════════════════════════════════
+---
 
-class Developer:
+## Chapter 2: The Tools of My Trade
 
-    def __init__(self):
+Over the years, I've collected quite a toolkit. Here's what I work with:
 
-        self.languages = {
-            "legacy":  ["C", "C++", "C#", "Java", "Delphi", "Pascal"],
-            "modern":  ["Python", "JavaScript", "TypeScript", "Dart", "Kotlin", "Swift"]
-        }
+### Languages I Speak (to computers)
 
-        self.frontend = {
-            "core":       ["HTML5", "CSS3", "Sass"],
-            "frameworks": ["React", "Next.js", "Vue", "Nuxt", "Angular", "Svelte"],
-            "styling":    ["Tailwind", "Bootstrap", "Material UI"]
-        }
+**The Classics:** C, C++, C#, Java, Delphi, Pascal
 
-        self.backend = {
-            "python":     ["Django", "FastAPI", "Flask"],
-            "javascript": ["Node.js", "Express", "NestJS"],
-            "other":      ["Spring Boot", "ASP.NET", "Laravel", "GraphQL"]
-        }
+**The Modern:** Python, JavaScript, TypeScript, Dart, Kotlin, Swift
 
-        self.mobile = {
-            "cross":  ["Flutter", "React Native"],
-            "native": ["Kotlin/Android", "Swift/iOS"],
-            "tools":  ["Firebase", "Expo", "Android Studio", "Xcode"]
-        }
-
-        self.databases = {
-            "sql":   ["PostgreSQL", "MySQL", "SQLite", "MS SQL"],
-            "nosql": ["MongoDB", "Redis", "Firebase", "DynamoDB"]
-        }
-
-        self.devops = {
-            "containers": ["Docker", "Kubernetes"],
-            "cloud":      ["AWS", "GCP", "Azure"],
-            "ci_cd":      ["GitHub Actions", "Jenkins"],
-            "servers":    ["Nginx", "Linux"]
-        }
-
-# Initialize developer instance
-dev = Developer()
-print(f"[+] Skills loaded successfully")
-print(f"[+] Ready to code...")
-```
-
-<div align="center">
-
-<p>
+<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,c,cpp,java,kotlin,swift&theme=dark" />
 </a>
 </p>
 
-<p>
+### Building the Frontend
+
+I craft user interfaces with **React**, **Next.js**, **Vue**, **Nuxt**, **Angular**, and **Svelte**. For styling, I reach for **Tailwind CSS**, **Bootstrap**, or **Material UI**.
+
+<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,svelte,tailwind,html,css,sass&theme=dark" />
 </a>
 </p>
 
-<p>
+### Powering the Backend
+
+Behind every great frontend is a solid backend. I build with **Django**, **FastAPI**, **Flask**, **Node.js**, **Express**, **NestJS**, **Spring Boot**, and **ASP.NET**.
+
+<p align="center">
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=django,fastapi,nodejs,nestjs,express,graphql,flask,spring&theme=dark" />
 </a>
 </p>
 
-<p>
+### Mobile Development
+
+Creating apps that live in people's pockets with **Flutter**, **React Native**, **Kotlin**, and **Swift**.
+
+<p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase,postgresql,mongodb,redis,docker,kubernetes,aws,linux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase&theme=dark" />
 </a>
 </p>
 
+### Data & Infrastructure
+
+**Databases:** PostgreSQL, MySQL, MongoDB, Redis, Firebase, DynamoDB
+
+**DevOps:** Docker, Kubernetes, AWS, GCP, Azure, GitHub Actions, Linux
+
+<p align="center">
+<a href="https://skillicons.dev">
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,docker,kubernetes,aws,linux&theme=dark" />
+</a>
+</p>
+
+---
+
+## Chapter 3: The Journey So Far
+
+Every developer has a story. Here's mine:
+
+### 2024 - Present: The Mentor
+**Algoritm Education Center**
+
+Now I get to do something special — teach. There's nothing quite like watching a student's eyes light up when their code finally works. I'm paying forward all the help I received along the way.
+
+### 2024: The Backend Developer
+**Jahankeshde Hyzmat**
+
+I dove deep into the world of APIs, databases, and server architecture. Django became my trusted companion. I learned that the real magic often happens where users can't see it.
+
+### 2022 - 2024: The Frontend Developer
+**Ynamly Geljek**
+
+This is where I fell in love with React. Building user interfaces became my passion. Every pixel mattered, every interaction had to feel just right.
+
+### 2022: The Intern
+**Ynamly Geljek**
+
+Everyone starts somewhere. My "somewhere" was a desk, a computer, and an overwhelming codebase. I still remember my first "it works on my machine" moment.
+
+---
+
+## Chapter 4: Beyond Code
+
+### Languages I Speak (to humans)
+
+| Language | Level | Notes |
+|----------|-------|-------|
+| Turkmen | Native | My mother tongue |
+| Russian | C1 | Fluent in conversation |
+| English | B2 | Technical & conversational |
+| German | A2 | Learning |
+| French | A2 | Learning |
+| Chinese | HSK2 | The journey continues |
+
+---
+
+## Chapter 5: The Numbers
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&text_color=c9d1d9" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSeydiCharyyev&hide_border=true&background=0d1117&ring=6366f1&fire=6366f1&currStreakLabel=6366f1&sideLabels=c9d1d9&dates=555555&currStreakNum=6366f1&sideNums=6366f1" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&hide_border=true&bg_color=0d1117&color=c9d1d9&line=6366f1&point=6366f1&area=true&area_color=6366f1" alt="Contribution Graph" />
+
 </div>
 
 ---
 
-<div align="center">
-
-## > CAREER.log --reverse_
-
-</div>
-
-```bash
-┌─[seydi@dev]─[~/career]
-└──╼ cat history.log | sort -r
-
-[2024-PRESENT] ══════════════════════════════════════════════════════════════
-    STATUS:   ACTIVE
-    ROLE:     Mentor
-    LOCATION: Algoritm Education Center
-    TASK:     Teaching the next generation of developers
-    OUTPUT:   Watching students go from "Hello World" to shipping projects
-
-[2024] ══════════════════════════════════════════════════════════════════════
-    STATUS:   COMPLETED
-    ROLE:     Backend Developer
-    LOCATION: Jahankeshde Hyzmat
-    TASK:     Building RESTful APIs with Django
-    OUTPUT:   Learned that the real magic happens behind the scenes
-
-[2022-2024] ═════════════════════════════════════════════════════════════════
-    STATUS:   COMPLETED
-    ROLE:     Frontend Developer
-    LOCATION: Ynamly Geljek
-    TASK:     Crafting user interfaces with React
-    OUTPUT:   Fell in love with React, shipped multiple projects
-
-[2022] ══════════════════════════════════════════════════════════════════════
-    STATUS:   COMPLETED
-    ROLE:     Intern
-    LOCATION: Ynamly Geljek
-    TASK:     Learning the ropes
-    OUTPUT:   First job, first codebase, first "it works on my machine"
-
-└──╼ echo "Journey continues..."
-```
-
----
+## The Story Continues...
 
 <div align="center">
-
-## > GITHUB.stats()_
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff00&icon_color=00ff00&text_color=c9d1d9&ring_color=00ff00" alt="GitHub Stats" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff00&text_color=c9d1d9" alt="Top Languages" height="170" />
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSeydiCharyyev&hide_border=true&background=0d1117&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideLabels=c9d1d9&dates=555555&currStreakNum=00ff00&sideNums=00ff00" alt="GitHub Streak" />
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&hide_border=true&bg_color=0d1117&color=c9d1d9&line=00ff00&point=00ff00&area=true&area_color=00ff00" alt="Contribution Graph" />
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/output/github-snake-dark.svg" />
 </picture>
-
-</div>
-
----
-
-<div align="center">
-
-## > LANGUAGES.human[]_
-
-```
-┌────────────────────────────────────────────────────────────────────┐
-│  LANG        │  LEVEL    │  PROFICIENCY                           │
-├────────────────────────────────────────────────────────────────────┤
-│  Turkmen     │  NATIVE   │  ████████████████████  100%            │
-│  Russian     │  C1       │  ██████████████████░░   90%            │
-│  English     │  B2       │  ████████████████░░░░   75%            │
-│  German      │  A2       │  ████████░░░░░░░░░░░░   40%            │
-│  French      │  A2       │  ████████░░░░░░░░░░░░   40%            │
-│  Chinese     │  HSK2     │  ██████░░░░░░░░░░░░░░   30%            │
-└────────────────────────────────────────────────────────────────────┘
-```
-
-</div>
-
----
-
-<div align="center">
-
-## > CONNECT.init()_
-
-```javascript
-// ═══════════════════════════════════════════════════════════════════
-//                    ESTABLISHING CONNECTION...
-// ═══════════════════════════════════════════════════════════════════
-
-if (you.have("project_idea") || you.need("mentor") || you.want("to_talk_code")) {
-
-    await connect({
-        email: "seydi.charyev@gmail.com",
-        linkedin: "/in/seydi-charyyev",
-        portfolio: "theseydicharyyev.github.io/portfolio"
-    });
-
-    console.log("[+] Connection established!");
-
-}
-
-// ═══════════════════════════════════════════════════════════════════
-```
-
-[![Email](https://img.shields.io/badge/>>_SEND_MESSAGE-00ff00?style=for-the-badge&logoColor=black)](mailto:seydi.charyev@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/>>_CONNECT-00ff00?style=for-the-badge&logoColor=black)](https://linkedin.com/in/seydi-charyyev)
-[![Portfolio](https://img.shields.io/badge/>>_VISIT_BASE-00ff00?style=for-the-badge&logoColor=black)](https://theseydicharyyev.github.io/portfolio/)
 
 <br/><br/>
 
-```
-"I just want to be successful enough to help people"
+*"I just want to be successful enough to help people."*
 
-[PROCESS TERMINATED]
-[GOODBYE]
-```
+---
+
+**Thank you for reading my story.**
+
+If you'd like to write the next chapter together, let's connect.
+
+[![Email](https://img.shields.io/badge/Let's_Talk-6366f1?style=for-the-badge)](mailto:seydi.charyev@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-6366f1?style=for-the-badge)](https://linkedin.com/in/seydi-charyyev)
+[![Portfolio](https://img.shields.io/badge/Explore-6366f1?style=for-the-badge)](https://theseydicharyyev.github.io/portfolio/)
 
 </div>
