@@ -1,162 +1,197 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1d4ed8&height=200&section=header&text=Seydi%20Charyyev&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Fullstack%20Engineer%20%26%20Mobile%20Developer&descSize=20&descAlignY=55"/>
+
 <div align="center">
 
-![Visitors](https://komarev.com/ghpvc/?username=TheSeydiCharyyev&color=blue&style=flat-square&label=Profile+Views)
+![Visitors](https://komarev.com/ghpvc/?username=TheSeydiCharyyev&color=3b82f6&style=for-the-badge&label=PROFILE+VIEWS)
 
-# Seydi Charyyev
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=600&lines=From+Mary%2C+Turkmenistan+%E2%80%94+creating+for+the+world;It's+not+the+strongest+who+survives;but+the+one+who+never+gave+up" alt="Typing SVG" />
 
-**Fullstack Engineer & Mobile Developer**
+<br/>
 
-*From Mary, Turkmenistan — creating for the world*
-
----
-
-*"It's not the strongest who survives, but the one who never gave up"*
-
----
-
-[![Email](https://img.shields.io/badge/Email-seydi.charyev%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydi.charyev@gmail.com)
+[![Email](https://img.shields.io/badge/Email-seydi.charyev%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydi.charyev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Seydi%20Charyyev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seydi-charyyev)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel&logoColor=white)](https://theseydicharyyev.github.io/portfolio/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://theseydicharyyev.github.io/portfolio/)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## More Than Just Code
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30"> More Than Just Code
 
-Started with C++ and Delphi, now building the future with React and Flutter.
-Code is just a tool — the real magic happens when you solve problems that matter.
-From a student in Turkmenistan to a mentor shaping the next generation of developers.
-Every project I build, every lesson I teach — it's all part of one mission:
-**making technology accessible to everyone.**
+```typescript
+const seydi = {
+    location: "Mary, Turkmenistan",
+    role: "Fullstack Engineer & Mobile Developer",
+    mission: "Making technology accessible to everyone",
 
----
+    journey: {
+        started: "C++ and Delphi",
+        now: "React and Flutter",
+        teaching: "Next generation of developers"
+    },
 
-## What I Work With
+    motto: "Code is just a tool — the real magic happens when you solve problems that matter"
+};
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> What I Work With
 
 ### Code Languages
 
-**The Old School**
+<p align="center">
+  <b>The Old School</b>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java&theme=dark" />
+  </a>
+</p>
 
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Delphi](https://img.shields.io/badge/Delphi-EE1F35?style=flat-square&logo=delphi&logoColor=white)
-![Pascal](https://img.shields.io/badge/Pascal-0298C3?style=flat-square&logoColor=white)
-
-**The New Wave**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)
+<p align="center">
+  <b>The New Wave</b>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,javascript,typescript,dart,kotlin,swift&theme=dark" />
+  </a>
+</p>
 
 ### Building the Web
 
-**What You See**
+<p align="center">
+  <b>What You See</b>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,sass,react,nextjs,vue,nuxtjs,angular,svelte,tailwind,bootstrap&theme=dark" />
+  </a>
+</p>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**What You Don't**
-
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+<p align="center">
+  <b>What You Don't</b>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express,nestjs,spring,dotnet,laravel,graphql&theme=dark" />
+  </a>
+</p>
 
 ### Mobile Craft
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![iOS](https://img.shields.io/badge/iOS-000000?style=flat-square&logo=ios&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,androidstudio,swift,react,firebase&theme=dark" />
+  </a>
+</p>
 
 ### Data Storage
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb,redis,sqlite,supabase,firebase&theme=dark" />
+  </a>
+</p>
 
 ### The Rest of the Toolkit
 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,gitlab,docker,kubernetes,aws,gcp,azure,linux,nginx,vscode,figma&theme=dark" />
+  </a>
+</p>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## The Path So Far
-
-**Chapter 4: Passing the Torch** — *Algoritm Education Center* (Aug 2024 — Present)
-Turned my experience into lessons — now teaching the next generation of developers
-
-**Chapter 3: Building What You Don't See** — *Jahankeshde Hyzmat* (Mar 2024 — Aug 2024)
-Switched to the backend — learned that the real magic happens behind the scenes
-
-**Chapter 2: Crafting User Experiences** — *Ynamly Geljek* (Sep 2022 — Mar 2024)
-Graduated from intern to frontend developer — fell in love with React
-
-**Chapter 1: Where It All Began** — *Ynamly Geljek* (May 2022 — Sep 2022)
-First job, first codebase, first "it works on my machine" moment
-
----
-
-## GitHub Activity
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> The Path So Far
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" alt="GitHub Stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages" height="165" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSeydiCharyyev&theme=tokyonight&hide_border=true&background=0D1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=c9d1d9&line=58a6ff&point=58a6ff" alt="Contribution Graph" />
+```mermaid
+timeline
+    title My Developer Journey
+    2022 : Chapter 1 - Where It All Began
+         : Ynamly Geljek (Intern)
+         : First job, first codebase
+    2022-2024 : Chapter 2 - Crafting User Experiences
+              : Ynamly Geljek (Frontend Dev)
+              : Fell in love with React
+    2024 : Chapter 3 - Building What You Don't See
+         : Jahankeshde Hyzmat (Backend Dev)
+         : The magic behind the scenes
+    2024-Present : Chapter 4 - Passing the Torch
+                 : Algoritm Education Center (Mentor)
+                 : Teaching the next generation
+```
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## Not Just Programming Languages
-
-| Language | Level | Context |
-|----------|-------|---------|
-| Turkmen | Native | Where it all started |
-| Russian | C1 | Work, study, thinking |
-| English | B2 | Code, docs, global communication |
-| German | A2 | Opening doors to Europe |
-| French | A2 | The language of elegance |
-| Chinese | HSK 2 | 1.4 billion new friends to make |
-
----
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Activity
 
 <div align="center">
 
-### Got an Idea? Let's Make It Real
+<img src="https://github-profile-trophy.vercel.app/?username=TheSeydiCharyyev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" alt="GitHub Trophies" />
 
-*Have a project in mind? Looking for a mentor? Or just want to talk code?*
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&icon_color=3b82f6&text_color=c9d1d9&ring_color=3b82f6" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3b82f6&text_color=c9d1d9" alt="Top Languages" height="180" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheSeydiCharyyev&theme=tokyonight&hide_border=true&background=0D1117&ring=3b82f6&fire=3b82f6&currStreakLabel=3b82f6&sideLabels=c9d1d9&dates=c9d1d9" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=c9d1d9&line=3b82f6&point=3b82f6&area=true&area_color=3b82f6" alt="Contribution Graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/TheSeydiCharyyev/TheSeydiCharyyev/output/github-snake.svg" />
+  </picture>
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+## <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="30"> Not Just Programming Languages
+
+<div align="center">
+
+| <img src="https://flagcdn.com/w40/tm.png" width="30"/> | <img src="https://flagcdn.com/w40/ru.png" width="30"/> | <img src="https://flagcdn.com/w40/gb.png" width="30"/> | <img src="https://flagcdn.com/w40/de.png" width="30"/> | <img src="https://flagcdn.com/w40/fr.png" width="30"/> | <img src="https://flagcdn.com/w40/cn.png" width="30"/> |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| **Turkmen** | **Russian** | **English** | **German** | **French** | **Chinese** |
+| Native | C1 | B2 | A2 | A2 | HSK 2 |
+| *Where it all started* | *Work & thinking* | *Code & docs* | *Doors to Europe* | *Elegance* | *1.4B friends* |
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<div align="center">
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30"> Got an Idea? Let's Make It Real
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=3B82F6&center=true&vCenter=true&random=false&width=500&lines=Have+a+project+in+mind%3F;Looking+for+a+mentor%3F;Or+just+want+to+talk+code%3F;Let's+connect!" alt="Typing SVG" />
+
+<br/><br/>
 
 [![Email](https://img.shields.io/badge/Drop%20a%20Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seydi.charyev@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/seydi-charyyev)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/TheSeydiCharyyev)
 
----
+<br/>
 
-*"I just want to be successful enough to help people"*
+### *"I just want to be successful enough to help people"*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:1d4ed8&height=120&section=footer"/>
