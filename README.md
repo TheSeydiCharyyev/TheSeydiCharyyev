@@ -177,9 +177,40 @@ Welcome to my GitHub! I'm a Fullstack Engineer & Mobile Developer from Turkmenis
 </details>
 
 ---
-
-## 🌐 Languages I Speak
-
-| 🇹🇲 Turkmen | 🇷🇺 Russian | 🇬🇧 English | 🇩🇪 German | 🇫🇷 French | 🇨🇳 Chinese |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| Native | C1 | B2 | A2 | A2 | HSK2 |
+ ## 🌐 Languages I Speak  
+ <div align="center">                                                                                                                                                                      
+    <table>                                                                                                                                                                                 
+      <tr>                                                                                                                                                                                  
+        <td align="center">                                                                                                                                                                 
+          <img src="https://flagcdn.com/w80/tm.png" width="60" alt="Turkmenistan"/><br>                                                                                                     
+          <b>Turkmen</b><br>                                                                                                                                                                
+          <sub>Native</sub>                                                                                                                                                                 
+        </td>                                                                                                                                                                               
+        <td align="center">                                                                                                                                                                 
+          <img src="https://flagcdn.com/w80/ru.png" width="60" alt="Russia"/><br>                                                                                                           
+          <b>Russian</b><br>                                                                                                                                                                
+          <sub>C1</sub>                                                                                                                                                                     
+        </td>                                                                                                                                                                               
+        <td align="center">                                                                                                                                                                 
+          <img src="https://flagcdn.com/w80/gb.png" width="60" alt="UK"/><br>                                                                                                               
+          <b>English</b><br>                                                                                                                                                                
+          <sub>B2</sub>                                                                                                                                                                     
+        </td>                                                                                                                                                                               
+        <td align="center">                                                                                                                                                                 
+          <img src="https://flagcdn.com/w80/de.png" width="60" alt="Germany"/><br>                                                                                                          
+          <b>German</b><br>                                                                                                                                                                 
+          <sub>A2</sub>                                                                                                                                                                     
+        </td>                                                                                                                                                                               
+        <td align="center">                                                                                                                                                                 
+          <img src="https://flagcdn.com/w80/fr.png" width="60" alt="France"/><br>                                                                                                           
+          <b>French</b><br>                                                                                                                                                                 
+          <sub>A2</sub>                                                                                                                                                                     
+        </td>                                                                                                                                                                               
+        <td align="center">                                                                                                                                                                 
+          <img src="https://flagcdn.com/w80/cn.png" width="60" alt="China"/><br>                                                                                                            
+          <b>Chinese</b><br>                                                                                                                                                                
+          <sub>HSK2</sub>                                                                                                                                                                   
+        </td>                                                                                                                                                                               
+      </tr>                                                                                                                                                                                 
+    </table>                                                                                                                                                                                
+  </div>     
