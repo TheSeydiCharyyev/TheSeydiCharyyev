@@ -1,8 +1,6 @@
  <div align="center">                                                                                                                                                                      
-    <a href="https://git.io/typing-svg">                                                                                                                                                    
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=800&height=80&lines=%F0%9F%91%8B+Hi+there!+I'
-  m+Seydi+Charyyev;Fullstack+Engineer+%7C+Mobile+Developer;Mentor+%40+Algoritm+Education+Center" alt="Typing SVG" />                                                                        
-    </a>                                                                                                                                                                                    
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&width=435&lines=Fullstack+Engineer;Mobile+Developer;Welcome+to+my+profile!)
+  ](https://github.com/TheSeydiCharyyev)                                                                                                                                                                                    
     <br>                                                                                                                                                                                    
     <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="150">                                                                                                      
   </div> 
