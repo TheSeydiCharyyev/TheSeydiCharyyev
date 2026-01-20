@@ -1,9 +1,3 @@
- <div align="center">                                                                                                                                                                      
-                                                                                                                                                                                
-    <br>                                                                                                                                                                                    
-    <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="150">                                                                                                      
-  </div> 
-
 <div align="center">
 
 <a href="mailto:seydi.charyev@gmail.com">
