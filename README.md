@@ -1,5 +1,5 @@
  <div align="center">                                                                                                                                                                      
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&width=435&lines=Fullstack+Engineer;Mobile+Developer;Welcome+to+my+profile!)](https://github.com/TheSeydiCharyyev)                                                                                                                                                                                 
+                                                                                                                                                                                
     <br>                                                                                                                                                                                    
     <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" width="150">                                                                                                      
   </div> 
