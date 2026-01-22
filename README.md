@@ -146,17 +146,18 @@ Welcome to my GitHub! I'm a Fullstack Engineer & Mobile Developer from Turkmenis
 
 ## Github stats 📊
 
-<details>
-  <summary>GitHub Profile Stats 💻</summary>
-  <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Seydi's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=TheSeydiCharyyev&show_icons=true&count_private=true&theme=default&hide_border=true&bg_color=fff&title_color=00E676&icon_color=00E676" height="192px"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Seydi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&langs_count=8&layout=compact&theme=default&hide_border=true&bg_color=fff&title_color=000&icon_color=000" height="192px"/>
-  </a>
-  <br/>
-</details>
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&theme=default&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+      <br><br>
+      <img src="https://streak-stats.demolab.com/?user=TheSeydiCharyyev&theme=default&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&theme=default&hide_border=true&langs_count=7" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
 
 <details>
   <summary>Activity Graph 📈</summary>
