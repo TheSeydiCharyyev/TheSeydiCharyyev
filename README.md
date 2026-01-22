@@ -21,6 +21,10 @@
 Welcome to my GitHub! I'm a Fullstack Engineer & Mobile Developer from Turkmenistan. Started with C++ and Delphi, now building the future with React and Flutter. Code is just a tool — the real magic happens when you solve problems that matter. From a student in Turkmenistan to a mentor shaping the next generation of developers. Every project I build, every lesson I teach — it's all part of one mission: making technology accessible to everyone. From Mary, Turkmenistan — creating for the world.
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900">
+</p>
+
 ---
 
 ## What I Work With ⚙️
