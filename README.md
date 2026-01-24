@@ -23,6 +23,37 @@ Welcome to my GitHub! I'm a Fullstack Engineer & Mobile Developer from Turkmenis
 
 ---
 
+## Github stats 📊
+
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&theme=default&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+      <br><br>
+      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TheSeydiCharyyev&theme=default&hide_border=true" alt="GitHub Streak" />
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&theme=default&hide_border=true&langs_count=7" alt="Most Used Languages" />
+    </td>
+  </tr>
+</table>
+
+<details>
+  <summary>Activity Graph 📈</summary>
+  <br/>
+
+[![Seydi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</details>
+
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
+
+---
+
 ## What I Work With ⚙️
 
 <table>
@@ -141,37 +172,6 @@ Welcome to my GitHub! I'm a Fullstack Engineer & Mobile Developer from Turkmenis
     </td>
   </tr>
 </table>
-
----
-
-## Github stats 📊
-
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&theme=default&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-      <br><br>
-      <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TheSeydiCharyyev&theme=default&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&theme=default&hide_border=true&langs_count=7" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary>Activity Graph 📈</summary>
-  <br/>
-
-[![Seydi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
-
-<details>
-  <summary>Profile Views 👁️</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-</details>
 
 ---
  ## 🌐 Languages I Speak  
