@@ -1,28 +1,3 @@
-<div align="center">
-
-<a href="mailto:seydi.charyev@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://linkedin.com/in/seydi-charyyev">
-  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://t.me/TheSeydiCharyyev">
-  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
-</a>&nbsp;&nbsp;
-<a href="https://theseydicharyyev.github.io/portfolio/">
-  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
-</a>
-
-</div>
-
-<br>
-
-<p align="center">
-Welcome to my GitHub! I'm a Fullstack Engineer & Mobile Developer from Turkmenistan. Started with C++ and Delphi, now building the future with React and Flutter. Code is just a tool — the real magic happens when you solve problems that matter. From a student in Turkmenistan to a mentor shaping the next generation of developers. Every project I build, every lesson I teach — it's all part of one mission: making technology accessible to everyone. From Mary, Turkmenistan — creating for the world.
-</p>
-
----
-
 ## Github stats 📊
 
 <table align="center">
