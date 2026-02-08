@@ -3,12 +3,12 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=TheSeydiCharyyev&theme=default&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+      <img src="https://github-readme-stats-six-sigma-59.vercel.app/api?username=TheSeydiCharyyev&theme=default&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
       <br><br>
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TheSeydiCharyyev&theme=default&hide_border=true" alt="GitHub Streak" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheSeydiCharyyev&theme=default&hide_border=true&langs_count=7" alt="Most Used Languages" />
+      <img src="https://github-readme-stats-six-sigma-59.vercel.app/api/top-langs/?username=TheSeydiCharyyev&theme=default&hide_border=true&langs_count=7" alt="Most Used Languages" />
     </td>
   </tr>
 </table>
