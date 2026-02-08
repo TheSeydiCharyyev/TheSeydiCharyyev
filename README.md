@@ -1,4 +1,29 @@
-## Github stats 📊
+<div align="center">
+
+<a href="mailto:seydi.charyev@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-%23E4405F.svg?style=for-the-badge&logo=Gmail&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://linkedin.com/in/seydi-charyyev">
+  <img src="https://img.shields.io/badge/Linkedin-%231DA1F2.svg?style=for-the-badge&logo=Linkedin&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://t.me/TheSeydiCharyyev">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
+</a>&nbsp;&nbsp;
+<a href="https://theseydicharyyev.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white">
+</a>
+
+</div>
+
+<br>
+
+<p align="center">
+Welcome to my GitHub! I'm a Fullstack Engineer & Mobile Developer from Turkmenistan. Started with C++ and Delphi, now building the future with React and Flutter. Code is just a tool — the real magic happens when you solve problems that matter. From a student in Turkmenistan to a mentor shaping the next generation of developers. Every project I build, every lesson I teach — it's all part of one mission: making technology accessible to everyone. From Mary, Turkmenistan — creating for the world.
+</p>
+
+---
+
+## Github stats
 
 <table align="center">
   <tr border="none">
@@ -14,7 +39,7 @@
 </table>
 
 <details>
-  <summary>Activity Graph 📈</summary>
+  <summary>Activity Graph</summary>
   <br/>
 
 [![Seydi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -22,22 +47,28 @@
 </details>
 
 <details>
-  <summary>Profile Views 👁️</summary>
+  <summary>Profile Views</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 </details>
 
 ---
 
-## Tech Stack (auto-detected) 🔍
+## Tech Stack (auto-detected)
 
 <p align="center">
-  <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=card" alt="Tech Stack" />
+  <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
+    <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=card" alt="Tech Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Powered by <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">github-framework-stats</a> — auto-detects technologies from your repos</sub>
 </p>
 
 ---
 
-## What I Work With ⚙️
+## What I Work With
 
 <table>
   <tr>
@@ -157,40 +188,42 @@
 </table>
 
 ---
- ## 🌐 Languages I Speak  
- <div align="center">                                                                                                                                                                      
-    <table>                                                                                                                                                                                 
-      <tr>                                                                                                                                                                                  
-        <td align="center">                                                                                                                                                                 
-          <img src="https://flagcdn.com/w80/tm.png" width="60" alt="Turkmenistan"/><br>                                                                                                     
-          <b>Turkmen</b><br>                                                                                                                                                                
-          <sub>Native</sub>                                                                                                                                                                 
-        </td>                                                                                                                                                                               
-        <td align="center">                                                                                                                                                                 
-          <img src="https://flagcdn.com/w80/ru.png" width="60" alt="Russia"/><br>                                                                                                           
-          <b>Russian</b><br>                                                                                                                                                                
-          <sub>C1</sub>                                                                                                                                                                     
-        </td>                                                                                                                                                                               
-        <td align="center">                                                                                                                                                                 
-          <img src="https://flagcdn.com/w80/gb.png" width="60" alt="UK"/><br>                                                                                                               
-          <b>English</b><br>                                                                                                                                                                
-          <sub>B2</sub>                                                                                                                                                                     
-        </td>                                                                                                                                                                               
-        <td align="center">                                                                                                                                                                 
-          <img src="https://flagcdn.com/w80/de.png" width="60" alt="Germany"/><br>                                                                                                          
-          <b>German</b><br>                                                                                                                                                                 
-          <sub>A2</sub>                                                                                                                                                                     
-        </td>                                                                                                                                                                               
-        <td align="center">                                                                                                                                                                 
-          <img src="https://flagcdn.com/w80/fr.png" width="60" alt="France"/><br>                                                                                                           
-          <b>French</b><br>                                                                                                                                                                 
-          <sub>A2</sub>                                                                                                                                                                     
-        </td>                                                                                                                                                                               
-        <td align="center">                                                                                                                                                                 
-          <img src="https://flagcdn.com/w80/cn.png" width="60" alt="China"/><br>                                                                                                            
-          <b>Chinese</b><br>                                                                                                                                                                
-          <sub>HSK2</sub>                                                                                                                                                                   
-        </td>                                                                                                                                                                               
-      </tr>                                                                                                                                                                                 
-    </table>                                                                                                                                                                                
-  </div>     
+
+## Languages I Speak
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://flagcdn.com/w80/tm.png" width="60" alt="Turkmenistan"/><br>
+        <b>Turkmen</b><br>
+        <sub>Native</sub>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/w80/ru.png" width="60" alt="Russia"/><br>
+        <b>Russian</b><br>
+        <sub>C1</sub>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/w80/gb.png" width="60" alt="UK"/><br>
+        <b>English</b><br>
+        <sub>B2</sub>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/w80/de.png" width="60" alt="Germany"/><br>
+        <b>German</b><br>
+        <sub>A2</sub>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/w80/fr.png" width="60" alt="France"/><br>
+        <b>French</b><br>
+        <sub>A2</sub>
+      </td>
+      <td align="center">
+        <img src="https://flagcdn.com/w80/cn.png" width="60" alt="China"/><br>
+        <b>Chinese</b><br>
+        <sub>HSK2</sub>
+      </td>
+    </tr>
+  </table>
+</div>
