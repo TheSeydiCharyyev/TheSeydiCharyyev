@@ -29,6 +29,14 @@
 
 ---
 
+## Tech Stack (auto-detected) 🔍
+
+<p align="center">
+  <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=card" alt="Tech Stack" />
+</p>
+
+---
+
 ## What I Work With ⚙️
 
 <table>
