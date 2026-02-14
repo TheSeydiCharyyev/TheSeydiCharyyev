@@ -51,7 +51,9 @@
 
 ---
 
-## What I Work With
+<details>
+  <summary>What I Work With</summary>
+  <br/>
 
 <table>
   <tr>
@@ -170,9 +172,13 @@
   </tr>
 </table>
 
+</details>
+
 ---
 
-## Languages I Speak
+<details>
+  <summary>Languages I Speak</summary>
+  <br/>
 
 <div align="center">
   <table>
@@ -210,3 +216,5 @@
     </tr>
   </table>
 </div>
+
+</details>
