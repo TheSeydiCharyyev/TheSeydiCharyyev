@@ -1,4 +1,6 @@
-## Github stats
+<details>
+  <summary>Github Stats</summary>
+  <br/>
 
 <table align="center">
   <tr border="none">
@@ -12,6 +14,8 @@
     </td>
   </tr>
 </table>
+
+</details>
 
 <details>
   <summary>Activity Graph</summary>
@@ -29,7 +33,9 @@
 
 ---
 
-## Tech Stack (auto-detected)
+<details>
+  <summary>Tech Stack (auto-detected)</summary>
+  <br/>
 
 <p align="center">
   <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
@@ -40,6 +46,8 @@
 <p align="center">
   <sub>Powered by <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">github-framework-stats</a> — auto-detects technologies from your repos</sub>
 </p>
+
+</details>
 
 ---
 
