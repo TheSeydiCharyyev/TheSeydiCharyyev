@@ -1,170 +1,188 @@
-<details>
-  <summary>Github Stats</summary>
-  <br/>
-
 <table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
+  <tr>
+    <th>
+      <h3>📊 Github Stats</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
       <img src="https://github-readme-stats-six-sigma-59.vercel.app/api?username=TheSeydiCharyyev&theme=default&show_icons=true&count_private=true&hide_border=true" alt="GitHub Stats" />
       <br><br>
       <img src="https://github-readme-streak-stats-eight.vercel.app/?user=TheSeydiCharyyev&theme=default&hide_border=true" alt="GitHub Streak" />
-    </td>
-    <td width="50%" align="center">
+      <br><br>
       <img src="https://github-readme-stats-six-sigma-59.vercel.app/api/top-langs/?username=TheSeydiCharyyev&theme=default&hide_border=true&langs_count=7" alt="Most Used Languages" />
+      <br/>
     </td>
   </tr>
 </table>
 
-</details>
+<br/>
 
-<details>
-  <summary>Profile Views</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-</details>
-
----
-
-<details>
-  <summary>Tech Stack (auto-detected)</summary>
-  <br/>
-
-<p align="center">
-  <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
-    <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=card" alt="Tech Stack" />
-  </a>
-</p>
-
-<p align="center">
-  <sub>Powered by <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">github-framework-stats</a> — auto-detects technologies from your repos</sub>
-</p>
-
-</details>
-
----
-
-<details>
-  <summary>What I Work With</summary>
-  <br/>
-
-<table>
+<table align="center">
   <tr>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-      <br>Python
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
-      <br>TypeScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-      <br>React
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-      <br>Django
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-      <br>Docker
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
-      <br>Kubernetes
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-      <br>AWS
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-      <br>GitHub
-    </td>
+    <th>
+      <h3>⚡ Tech Stack (auto-detected)</h3>
+    </th>
   </tr>
   <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
-      <br>Flutter
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
-      <br>Dart
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
-      <br>Swift
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-      <br>Next.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
-      <br>Vue
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
-      <br>Angular
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
-      <br>Node.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
-      <br>CSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
-      <br>Tailwind
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
-      <br>Firebase
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
-      <br>Linux
+    <td align="center">
+      <br/>
+      <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
+        <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=card" alt="Tech Stack" />
+      </a>
+      <br/>
+      <sub>Powered by <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">github-framework-stats</a> — auto-detects technologies from your repos</sub>
+      <br/><br/>
     </td>
   </tr>
 </table>
 
-</details>
+<br/>
 
----
+<table align="center">
+  <tr>
+    <th>
+      <h3>🛠️ What I Work With</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
+      <table>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
+            <br>Python
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
+            <br>JavaScript
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="65" height="65" />
+            <br>TypeScript
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
+            <br>React
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
+            <br>Django
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
+            <br>Docker
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="65" height="65" />
+            <br>Kubernetes
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
+            <br>AWS
+          </td>
+          <td align="center" width="96">
+            <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
+            <br>GitHub
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=flutter" width="48" height="48" alt="Flutter" />
+            <br>Flutter
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=dart" width="48" height="48" alt="Dart" />
+            <br>Dart
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=kotlin" width="48" height="48" alt="Kotlin" />
+            <br>Kotlin
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=swift" width="48" height="48" alt="Swift" />
+            <br>Swift
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+            <br>Next.js
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=vue" width="48" height="48" alt="Vue" />
+            <br>Vue
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=angular" width="48" height="48" alt="Angular" />
+            <br>Angular
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+            <br>Node.js
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+            <br>FastAPI
+          </td>
+        </tr>
+        <tr>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+            <br>HTML
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
+            <br>CSS
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+            <br>Tailwind
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+            <br>PostgreSQL
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+            <br>MongoDB
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+            <br>Redis
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+            <br>Firebase
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+            <br>Git
+          </td>
+          <td align="center" width="96">
+            <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+            <br>Linux
+          </td>
+        </tr>
+      </table>
+      <br/>
+    </td>
+  </tr>
+</table>
 
+<br/>
+
+<table align="center">
+  <tr>
+    <th>
+      <h3>👁️ Profile Views</h3>
+    </th>
+  </tr>
+  <tr>
+    <td align="center">
+      <br/>
+      <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+      <br/><br/>
+    </td>
+  </tr>
+</table>
