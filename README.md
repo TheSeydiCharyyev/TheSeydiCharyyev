@@ -18,14 +18,6 @@
 </details>
 
 <details>
-  <summary>Activity Graph</summary>
-  <br/>
-
-[![Seydi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheSeydiCharyyev&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</details>
-
-<details>
   <summary>Profile Views</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
