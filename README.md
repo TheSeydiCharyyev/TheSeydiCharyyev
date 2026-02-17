@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
-    <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=grid" alt="Tech Stack" />
+    <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=pie" alt="Tech Stack" />
   </a>
 </p>
 
