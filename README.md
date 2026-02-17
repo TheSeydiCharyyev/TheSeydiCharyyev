@@ -3,6 +3,15 @@
   <br/>
 
 <p align="center">
+  <b>Ykjam Terjime</b> — A Turkmen phrasebook & translator
+  <br/><br/>
+  • 305 phrases in 22 categories<br/>
+  • 31 languages supported<br/>
+  • AI assistant powered by Gemini<br/>
+  • Text-to-speech for all languages<br/>
+  <br/>
+  Built with: React Native, TypeScript, Expo
+  <br/><br/>
   <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50" />
   </a>
