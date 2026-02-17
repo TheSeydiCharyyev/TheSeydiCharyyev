@@ -1,4 +1,16 @@
 <details>
+  <summary>Projects</summary>
+  <br/>
+
+<p align="center">
+  <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50" />
+  </a>
+</p>
+
+</details>
+
+<details>
   <summary>Github Stats</summary>
   <br/>
 
@@ -17,7 +29,6 @@
 
 </details>
 
----
 
 <details>
   <summary>Tech Stack (auto-detected)</summary>
@@ -35,7 +46,6 @@
 
 </details>
 
----
 
 <details>
   <summary>What I Work With</summary>
@@ -160,7 +170,6 @@
 
 </details>
 
----
 
 <details>
   <summary>Profile Views</summary>
