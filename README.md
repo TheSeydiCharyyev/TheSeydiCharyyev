@@ -43,11 +43,20 @@
   <summary>Tech Stack (auto-detected)</summary>
   <br/>
 
-<p align="center">
-  <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
-    <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=pie" alt="Tech Stack" />
-  </a>
-</p>
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
+        <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=default&style=grid" alt="Tech Stack" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
+        <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=default&style=pie" alt="Tech Distribution" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <sub>Powered by <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">github-framework-stats</a> — auto-detects technologies from your repos</sub>
