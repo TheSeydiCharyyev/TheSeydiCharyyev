@@ -47,12 +47,12 @@
   <tr border="none">
     <td width="50%" align="center">
       <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
-        <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=grid&v=2" alt="Tech Stack" />
+        <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=pie&v=3" alt="Tech Distribution" />
       </a>
     </td>
     <td width="50%" align="center">
       <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
-        <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=pie&v=2" alt="Tech Distribution" />
+        <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=grid&v=3" alt="Tech Stack" />
       </a>
     </td>
   </tr>
