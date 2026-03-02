@@ -2,20 +2,30 @@
   <summary>Projects</summary>
   <br/>
 
-<p align="center">
-  <b>Ykjam Terjime</b> — A Turkmen phrasebook & translator
-  <br/><br/>
-  • 305 phrases in 22 categories<br/>
-  • 31 languages supported<br/>
-  • AI assistant powered by Gemini<br/>
-  • Text-to-speech for all languages<br/>
-  <br/>
-  Built with: React Native, TypeScript, Expo
-  <br/><br/>
-  <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="50" />
-  </a>
-</p>
+<table align="center">
+  <tr>
+    <td>
+      <h3>🇹🇲 Ykjam Terjime</h3>
+      <p>A Turkmen phrasebook & translator</p>
+      <p>
+        <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+      </p>
+      <ul>
+        <li>📚 305 phrases in 22 categories</li>
+        <li>🌍 31 languages supported</li>
+        <li>🤖 AI assistant powered by Gemini</li>
+        <li>🔊 Text-to-speech for all languages</li>
+      </ul>
+      <p align="center">
+        <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">
+          <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 </details>
 
