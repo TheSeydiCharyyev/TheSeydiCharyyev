@@ -1,22 +1,19 @@
-<details>
+<details open>
   <summary>About me</summary>
   <br/>
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://octodex.github.com/images/baracktocat.jpg" width="180" align="right" />
-      <h3>👋 Hey, I'm Seydi</h3>
-      <p>Full Stack JavaScript Engineer & React Native Developer from Turkmenistan 🇹🇲</p>
-      <ul>
-        <li>📱 Building cross-platform mobile apps with React Native & Expo</li>
-        <li>🌐 Full stack web development with modern JS/TS</li>
-        <li>🚀 Passionate about creating tools for the Turkmen-speaking community</li>
-        <li>📍 Based in Mary, Turkmenistan</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+<img src="https://octodex.github.com/images/baracktocat.jpg" width="180" align="right" />
+
+### 👋 Hey, I'm Seydi
+
+**Full Stack JavaScript Engineer & React Native Developer from Turkmenistan 🇹🇲**
+
+- 📱 Building cross-platform mobile apps with React Native & Expo
+- 🌐 Full stack web development with modern JS/TS
+- 🚀 Passionate about creating tools for the Turkmen-speaking community
+- 📍 Based in Mary, Turkmenistan
+
+<br clear="right"/>
 
 </details>
 
