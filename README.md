@@ -2,7 +2,7 @@
   <summary>About me</summary>
   <br/>
 
-<img src="https://octodex.github.com/images/NUX_Octodex.gif" width="200" align="right" />
+<img src="./NUX_Octodex.gif" width="200" align="right" />
 
 ### Hey, I'm Seydi
 
