@@ -75,21 +75,13 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-      <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
-        <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=pie&v=3" alt="Tech Distribution" />
-      </a>
+      <img src="./techstack_pie.svg" alt="Tech Distribution" />
     </td>
     <td width="50%" align="center">
-      <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">
-        <img src="https://github-framework-stats.vercel.app/TheSeydiCharyyev/techstack.svg?theme=light&style=grid&v=3" alt="Tech Stack" />
-      </a>
+      <img src="./techstack_grid.svg" alt="Tech Stack" />
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <sub>Powered by <a href="https://github.com/TheSeydiCharyyev/github-framework-stats">github-framework-stats</a> — auto-detects technologies from your repos</sub>
-</p>
 
 </details>
 
