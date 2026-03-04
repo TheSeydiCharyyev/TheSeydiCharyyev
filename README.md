@@ -1,4 +1,4 @@
-<details open>
+<details>
   <summary>About me</summary>
   <br/>
 
