@@ -73,7 +73,7 @@
 
 
 <details>
-  <summary>Tech Stack (auto-detected)</summary>
+  <summary>Tech Stack</summary>
   <br/>
 
 <table align="center">
