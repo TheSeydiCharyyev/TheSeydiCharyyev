@@ -72,9 +72,16 @@
   <summary>Tech Stack (auto-detected)</summary>
   <br/>
 
-<p align="center">
-  <img src="./techstack_pie.svg" alt="Tech Distribution" />
-</p>
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="center">
+      <img src="./techstack_stats.svg" alt="Tech Stack Stats" />
+    </td>
+    <td width="50%" align="center">
+      <img src="./techstack_pie.svg" alt="Most Used Technologies" />
+    </td>
+  </tr>
+</table>
 
 </details>
 
