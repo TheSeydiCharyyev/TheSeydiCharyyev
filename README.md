@@ -72,16 +72,9 @@
   <summary>Tech Stack (auto-detected)</summary>
   <br/>
 
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img src="./techstack_pie.svg" alt="Tech Distribution" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./techstack_grid.svg" alt="Tech Stack" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="./techstack_pie.svg" alt="Tech Distribution" />
+</p>
 
 </details>
 
