@@ -21,27 +21,31 @@
   <summary>Projects</summary>
   <br/>
 
-<table align="center">
+<table>
   <tr>
-    <td>
-      <h3>🇹🇲 Ykjam Terjime</h3>
-      <p>A Turkmen phrasebook & translator</p>
+    <td valign="top">
+      <h3>Ykjam Terjime</h3>
+      <p>Turkmen phrasebook & translator with AI-powered translations and text-to-speech support.</p>
       <p>
-        <img src="https://img.shields.io/badge/React_Native-61DAFB?logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white" />
+        <code>React Native</code>
+        <code>TypeScript</code>
+        <code>Expo</code>
+        <code>Gemini AI</code>
       </p>
-      <ul>
-        <li>📚 305 phrases in 22 categories</li>
-        <li>🌍 31 languages supported</li>
-        <li>🤖 AI assistant powered by Gemini</li>
-        <li>🔊 Text-to-speech for all languages</li>
-      </ul>
-      <p align="center">
+      <p>
         <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">
-          <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="40" />
+          <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" />
         </a>
       </p>
+    </td>
+    <td valign="top">
+      <br/>
+      <table>
+        <tr><td><strong>305</strong></td><td>phrases across 22 categories</td></tr>
+        <tr><td><strong>31</strong></td><td>languages supported</td></tr>
+        <tr><td><strong>AI</strong></td><td>assistant powered by Gemini</td></tr>
+        <tr><td><strong>TTS</strong></td><td>text-to-speech for all languages</td></tr>
+      </table>
     </td>
   </tr>
 </table>
