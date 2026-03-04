@@ -136,6 +136,8 @@
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" /><br>Vite</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=webpack" width="48" height="48" alt="Webpack" /><br>Webpack</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" /><br>GitHub</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=jest" width="48" height="48" alt="Jest" /><br>Jest</td>
+    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=bun" width="48" height="48" alt="Bun" /><br>Bun</td>
   </tr>
 </table>
 
