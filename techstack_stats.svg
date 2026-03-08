@@ -90,6 +90,14 @@
   
   
   <g transform="translate(30, 456)">
+    <text x="0" y="0" class="cat-name">Testing</text>
+    <text x="360" y="0" text-anchor="end" class="cat-pct">1 · 3%</text>
+    <rect x="0" y="10" width="360" height="10" rx="5" fill="#d0d7de" opacity="0.3"/>
+    <rect x="0" y="10" width="32.727272727272734" height="10" rx="5" fill="#d29922"/>
+  </g>
+  
+  
+  <g transform="translate(30, 500)">
     <text x="0" y="0" class="cat-name">CI/CD</text>
     <text x="360" y="0" text-anchor="end" class="cat-pct">1 · 3%</text>
     <rect x="0" y="10" width="360" height="10" rx="5" fill="#d0d7de" opacity="0.3"/>
@@ -97,7 +105,7 @@
   </g>
   
   
-  <g transform="translate(30, 500)">
+  <g transform="translate(30, 544)">
     <text x="0" y="0" class="cat-name">Server</text>
     <text x="360" y="0" text-anchor="end" class="cat-pct">1 · 3%</text>
     <rect x="0" y="10" width="360" height="10" rx="5" fill="#d0d7de" opacity="0.3"/>
@@ -105,19 +113,11 @@
   </g>
   
   
-  <g transform="translate(30, 544)">
+  <g transform="translate(30, 588)">
     <text x="0" y="0" class="cat-name">Hosting</text>
     <text x="360" y="0" text-anchor="end" class="cat-pct">1 · 3%</text>
     <rect x="0" y="10" width="360" height="10" rx="5" fill="#d0d7de" opacity="0.3"/>
     <rect x="0" y="10" width="32.727272727272734" height="10" rx="5" fill="#f778ba"/>
-  </g>
-  
-  
-  <g transform="translate(30, 588)">
-    <text x="0" y="0" class="cat-name">Testing</text>
-    <text x="360" y="0" text-anchor="end" class="cat-pct">1 · 3%</text>
-    <rect x="0" y="10" width="360" height="10" rx="5" fill="#d0d7de" opacity="0.3"/>
-    <rect x="0" y="10" width="32.727272727272734" height="10" rx="5" fill="#d29922"/>
   </g>
   
   
