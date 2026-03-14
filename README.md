@@ -79,10 +79,10 @@
 <table align="center">
   <tr border="none">
     <td width="50%" align="center">
-      <img src="./techstack_stats.svg?v=3" alt="Tech Stack Stats" />
+      <img src="./techstack_stats.svg?v=4" alt="Tech Stack Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="./techstack_pie.svg?v=3" alt="Most Used Technologies" />
+      <img src="./techstack_pie.svg?v=4" alt="Most Used Technologies" />
     </td>
   </tr>
 </table>
