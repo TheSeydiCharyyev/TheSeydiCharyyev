@@ -37,7 +37,7 @@
   
   <g transform="translate(30, 132)">
     <circle cx="6" cy="-4" r="5" fill="#56d4dd"/>
-    <text x="18" y="0" class="cat-label">HTTP & API</text>
+    <text x="18" y="0" class="cat-label">HTTP &amp; API</text>
     <text x="360" y="0" text-anchor="end" class="cat-value">3</text>
   </g>
   
@@ -58,21 +58,21 @@
   
   <g transform="translate(30, 222)">
     <circle cx="6" cy="-4" r="5" fill="#e377c2"/>
-    <text x="18" y="0" class="cat-label">UI & Styling</text>
+    <text x="18" y="0" class="cat-label">UI &amp; Styling</text>
     <text x="360" y="0" text-anchor="end" class="cat-value">2</text>
   </g>
   
   
   <g transform="translate(30, 252)">
     <circle cx="6" cy="-4" r="5" fill="#f0883e"/>
-    <text x="18" y="0" class="cat-label">DevOps & CI</text>
+    <text x="18" y="0" class="cat-label">DevOps &amp; CI</text>
     <text x="360" y="0" text-anchor="end" class="cat-value">2</text>
   </g>
   
   
   <g transform="translate(30, 282)">
     <circle cx="6" cy="-4" r="5" fill="#da3633"/>
-    <text x="18" y="0" class="cat-label">Backend & Server</text>
+    <text x="18" y="0" class="cat-label">Backend &amp; Server</text>
     <text x="360" y="0" text-anchor="end" class="cat-value">1</text>
   </g>
   
@@ -86,7 +86,7 @@
   
   <g transform="translate(30, 342)">
     <circle cx="6" cy="-4" r="5" fill="#3fb950"/>
-    <text x="18" y="0" class="cat-label">Database & Storage</text>
+    <text x="18" y="0" class="cat-label">Database &amp; Storage</text>
     <text x="360" y="0" text-anchor="end" class="cat-value">1</text>
   </g>
   
