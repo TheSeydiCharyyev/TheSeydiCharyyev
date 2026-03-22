@@ -125,29 +125,29 @@
   
   
   <g transform="translate(30, 168)">
+    <use href="#icon-devops" x="-2" y="-13" width="16" height="16" color="#f0883e"/>
+    <text x="20" y="0" class="cat-label">DevOps &amp; CI</text>
+    <text x="290" y="0" text-anchor="end" class="cat-value">3</text>
+  </g>
+  
+  
+  <g transform="translate(30, 200)">
     <use href="#icon-build" x="-2" y="-13" width="16" height="16" color="#ff7b72"/>
     <text x="20" y="0" class="cat-label">Build Tools</text>
     <text x="290" y="0" text-anchor="end" class="cat-value">2</text>
   </g>
   
   
-  <g transform="translate(30, 200)">
+  <g transform="translate(30, 232)">
     <use href="#icon-state" x="-2" y="-13" width="16" height="16" color="#8b949e"/>
     <text x="20" y="0" class="cat-label">State Mgmt</text>
     <text x="290" y="0" text-anchor="end" class="cat-value">2</text>
   </g>
   
   
-  <g transform="translate(30, 232)">
+  <g transform="translate(30, 264)">
     <use href="#icon-ui-styling" x="-2" y="-13" width="16" height="16" color="#e377c2"/>
     <text x="20" y="0" class="cat-label">UI &amp; Styling</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">2</text>
-  </g>
-  
-  
-  <g transform="translate(30, 264)">
-    <use href="#icon-devops" x="-2" y="-13" width="16" height="16" color="#f0883e"/>
-    <text x="20" y="0" class="cat-label">DevOps &amp; CI</text>
     <text x="290" y="0" text-anchor="end" class="cat-value">2</text>
   </g>
   
@@ -188,10 +188,10 @@
   
   <g transform="translate(30, 462)">
     <text x="0" y="0" class="sep-label">Total Technologies</text>
-    <text x="290" y="0" text-anchor="end" class="sep-value">30</text>
+    <text x="290" y="0" text-anchor="end" class="sep-value">31</text>
   </g>
   <g transform="translate(30, 490)">
     <text x="0" y="0" class="sep-label">Repos Analyzed</text>
-    <text x="290" y="0" text-anchor="end" class="sep-value">18</text>
+    <text x="290" y="0" text-anchor="end" class="sep-value">19</text>
   </g>
 </svg>
