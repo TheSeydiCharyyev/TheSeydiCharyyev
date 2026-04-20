@@ -230,8 +230,8 @@
   <tr>
     <td align="right" valign="top"><strong>Web3 &amp; Blockchain</strong></td>
     <td>
-      <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger" />
-      <img src="https://img.shields.io/badge/Identus-1E1E1E?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger Identus" />
+      <img src="https://img.shields.io/badge/Web3-F16822?style=flat-square&logo=web3dotjs&logoColor=white" alt="Web3" />
+      <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white" alt="Ethereum" />
       <img src="https://img.shields.io/badge/Cardano-0033AD?style=flat-square&logo=cardano&logoColor=white" alt="Cardano" />
       <img src="https://img.shields.io/badge/W3C_DIDs-005A9C?style=flat-square&logo=w3c&logoColor=white" alt="W3C DIDs" />
       <img src="https://img.shields.io/badge/Verifiable_Credentials-4A5568?style=flat-square" alt="Verifiable Credentials" />
