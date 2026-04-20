@@ -38,12 +38,7 @@
   <img src="https://img.shields.io/badge/TTS-all_languages-EF4444?style=flat-square" alt="Text-to-speech" />
 </p>
 <p>
-  <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" alt="Download on the App Store" />
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" alt="Get it on Google Play" />
-  </a>
+  <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" alt="Download on the App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shapak.translator"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" alt="Get it on Google Play" /></a>
 </p>
 
 </details>
