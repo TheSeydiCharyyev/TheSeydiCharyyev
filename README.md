@@ -11,7 +11,6 @@
 - Cross-platform mobile apps with React Native & Expo
 - Full stack web development with modern JS/TS
 - Creating tools for the Turkmen-speaking community
-- Based in Mary, Turkmenistan
 - Open Source Contributor across JS, TS and browser engine projects
 
 <br clear="right"/>
