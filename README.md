@@ -8,10 +8,10 @@
 
 **Full Stack JavaScript Engineer & React Native Developer from Turkmenistan 🇹🇲**
 
-- Cross-platform mobile apps with React Native & Expo
 - Full stack web development with modern JS/TS
-- Creating tools for the Turkmen-speaking community
+- Cross-platform mobile apps with React Native & Expo
 - Open Source Contributor across JS, TS and browser engine projects
+- Creating tools for the Turkmen-speaking community
 
 <br clear="right"/>
 
