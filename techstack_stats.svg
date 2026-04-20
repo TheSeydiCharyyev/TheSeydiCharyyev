@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="350" height="528" viewBox="0 0 350 528">
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="520" viewBox="0 0 400 520">
   <defs>
     <style>
       .title { font: 700 18px system-ui, -apple-system, sans-serif; fill: #24292f; }
@@ -106,92 +106,83 @@
   <g transform="translate(30, 72)">
     <use href="#icon-languages" x="-2" y="-13" width="16" height="16" color="#f1e05a"/>
     <text x="20" y="0" class="cat-label">Languages</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">11</text>
+    <text x="340" y="0" text-anchor="end" class="cat-value">11</text>
   </g>
   
   
   <g transform="translate(30, 104)">
     <use href="#icon-frameworks" x="-2" y="-13" width="16" height="16" color="#61dafb"/>
     <text x="20" y="0" class="cat-label">Frameworks</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">4</text>
+    <text x="340" y="0" text-anchor="end" class="cat-value">4</text>
   </g>
   
   
   <g transform="translate(30, 136)">
     <use href="#icon-http-api" x="-2" y="-13" width="16" height="16" color="#56d4dd"/>
     <text x="20" y="0" class="cat-label">HTTP &amp; API</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">3</text>
+    <text x="340" y="0" text-anchor="end" class="cat-value">3</text>
   </g>
   
   
   <g transform="translate(30, 168)">
     <use href="#icon-devops" x="-2" y="-13" width="16" height="16" color="#f0883e"/>
     <text x="20" y="0" class="cat-label">DevOps &amp; CI</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">3</text>
+    <text x="340" y="0" text-anchor="end" class="cat-value">3</text>
   </g>
   
   
   <g transform="translate(30, 200)">
     <use href="#icon-build" x="-2" y="-13" width="16" height="16" color="#ff7b72"/>
     <text x="20" y="0" class="cat-label">Build Tools</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">2</text>
+    <text x="340" y="0" text-anchor="end" class="cat-value">2</text>
   </g>
   
   
   <g transform="translate(30, 232)">
     <use href="#icon-state" x="-2" y="-13" width="16" height="16" color="#8b949e"/>
     <text x="20" y="0" class="cat-label">State Mgmt</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">2</text>
+    <text x="340" y="0" text-anchor="end" class="cat-value">2</text>
   </g>
   
   
   <g transform="translate(30, 264)">
     <use href="#icon-ui-styling" x="-2" y="-13" width="16" height="16" color="#e377c2"/>
     <text x="20" y="0" class="cat-label">UI &amp; Styling</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">2</text>
+    <text x="340" y="0" text-anchor="end" class="cat-value">2</text>
   </g>
   
   
   <g transform="translate(30, 296)">
     <use href="#icon-backend" x="-2" y="-13" width="16" height="16" color="#da3633"/>
     <text x="20" y="0" class="cat-label">Backend &amp; Server</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
+    <text x="340" y="0" text-anchor="end" class="cat-value">1</text>
   </g>
   
   
   <g transform="translate(30, 328)">
     <use href="#icon-testing" x="-2" y="-13" width="16" height="16" color="#d29922"/>
     <text x="20" y="0" class="cat-label">Testing</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
+    <text x="340" y="0" text-anchor="end" class="cat-value">1</text>
   </g>
   
   
   <g transform="translate(30, 360)">
     <use href="#icon-database" x="-2" y="-13" width="16" height="16" color="#3fb950"/>
     <text x="20" y="0" class="cat-label">Database &amp; Storage</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
-  </g>
-  
-  
-  <g transform="translate(30, 392)">
-    <use href="#icon-hosting" x="-2" y="-13" width="16" height="16" color="#f778ba"/>
-    <text x="20" y="0" class="cat-label">Hosting</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
+    <text x="340" y="0" text-anchor="end" class="cat-value">1</text>
   </g>
   
 
-  <!-- Separator line -->
-  
-  <line x1="30" y1="434" x2="320" y2="434" stroke="#d0d7de" stroke-width="1" opacity="0.4"/>
+  <!-- Separator line (position fixed near bottom so totals always anchor to bottom) -->
+  <line x1="30" y1="430" x2="370" y2="430" stroke="#d0d7de" stroke-width="1" opacity="0.4"/>
 
   <!-- Totals -->
-  
-  <g transform="translate(30, 462)">
+  <g transform="translate(30, 468)">
     <text x="0" y="0" class="sep-label">Total Technologies</text>
-    <text x="290" y="0" text-anchor="end" class="sep-value">31</text>
+    <text x="340" y="0" text-anchor="end" class="sep-value">31</text>
   </g>
-  <g transform="translate(30, 490)">
+  <g transform="translate(30, 496)">
     <text x="0" y="0" class="sep-label">Repos Analyzed</text>
-    <text x="290" y="0" text-anchor="end" class="sep-value">19</text>
+    <text x="340" y="0" text-anchor="end" class="sep-value">19</text>
   </g>
 </svg>
