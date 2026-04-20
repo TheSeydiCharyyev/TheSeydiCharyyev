@@ -227,6 +227,17 @@
       <img src="https://img.shields.io/badge/Adobe_XD-FF26BE?style=flat-square&logo=adobexd&logoColor=white" alt="Adobe XD" />
     </td>
   </tr>
+  <tr>
+    <td align="right" valign="top"><strong>Web3 &amp; Identity</strong> <sub>(learning)</sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger" />
+      <img src="https://img.shields.io/badge/Identus-1E1E1E?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger Identus" />
+      <img src="https://img.shields.io/badge/Cardano-0033AD?style=flat-square&logo=cardano&logoColor=white" alt="Cardano" />
+      <img src="https://img.shields.io/badge/W3C_DIDs-005A9C?style=flat-square&logo=w3c&logoColor=white" alt="W3C DIDs" />
+      <img src="https://img.shields.io/badge/Verifiable_Credentials-4A5568?style=flat-square" alt="Verifiable Credentials" />
+      <img src="https://img.shields.io/badge/DIDComm-6B7280?style=flat-square" alt="DIDComm" />
+    </td>
+  </tr>
 </table>
 
 </details>
