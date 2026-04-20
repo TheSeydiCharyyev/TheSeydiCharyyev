@@ -22,37 +22,29 @@
   <summary>Projects</summary>
   <br/>
 
-<table>
-  <tr>
-    <td valign="top">
-      <h3>Ykjam Terjime</h3>
-      <p>Turkmen phrasebook & translator with AI-powered translations and text-to-speech support.</p>
-      <p>
-        <code>React Native</code>
-        <code>TypeScript</code>
-        <code>Expo</code>
-        <code>Gemini AI</code>
-      </p>
-      <p>
-        <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">
-          <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" />
-        </a>
-        <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" />
-        </a>
-      </p>
-    </td>
-    <td valign="top">
-      <br/>
-      <table>
-        <tr><td><strong>305</strong></td><td>phrases across 22 categories</td></tr>
-        <tr><td><strong>31</strong></td><td>languages supported</td></tr>
-        <tr><td><strong>AI</strong></td><td>assistant powered by Gemini</td></tr>
-        <tr><td><strong>TTS</strong></td><td>text-to-speech for all languages</td></tr>
-      </table>
-    </td>
-  </tr>
-</table>
+<h3>Ykjam Terjime</h3>
+<p>Turkmen phrasebook & translator with AI-powered translations and text-to-speech support.</p>
+<p>
+  <code>React Native</code>
+  <code>TypeScript</code>
+  <code>Expo</code>
+  <code>Gemini AI</code>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/305-phrases-3178C6?style=flat-square" alt="305 phrases" />
+  <img src="https://img.shields.io/badge/22-categories-8B5CF6?style=flat-square" alt="22 categories" />
+  <img src="https://img.shields.io/badge/31-languages-10B981?style=flat-square" alt="31 languages" />
+  <img src="https://img.shields.io/badge/Gemini_AI-assistant-F59E0B?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
+  <img src="https://img.shields.io/badge/TTS-all_languages-EF4444?style=flat-square" alt="Text-to-speech" />
+</p>
+<p>
+  <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" alt="Download on the App Store" />
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" alt="Get it on Google Play" />
+  </a>
+</p>
 
 </details>
 
