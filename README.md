@@ -228,7 +228,7 @@
     </td>
   </tr>
   <tr>
-    <td align="right" valign="top"><strong>Web3 &amp; Identity</strong> <sub>(learning)</sub></td>
+    <td align="right" valign="top"><strong>Web3 &amp; Blockchain</strong></td>
     <td>
       <img src="https://img.shields.io/badge/Hyperledger-2F3134?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger" />
       <img src="https://img.shields.io/badge/Identus-1E1E1E?style=flat-square&logo=hyperledger&logoColor=white" alt="Hyperledger Identus" />
