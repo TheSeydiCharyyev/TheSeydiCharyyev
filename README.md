@@ -1,5 +1,3 @@
-<img align="right" width="420" src="./quotes/alyx.gif" alt="Half-Life: Alyx" />
-
 <details>
   <summary>About me</summary>
   <br/>
