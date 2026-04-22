@@ -1,7 +1,3 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="440" height="80" viewBox="-220 -40 440 80">
-  <g>
-    <animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.05;0.2;0.85;1" dur="5s" repeatCount="indefinite"/>
-    <animateTransform attributeName="transform" type="translate" values="0,60;0,60;0,0;0,0;0,-40" keyTimes="0;0.05;0.2;0.85;1" dur="5s" repeatCount="indefinite"/>
-    <text x="0" y="0" text-anchor="middle" dominant-baseline="central" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" font-style="italic" fill="#003399" letter-spacing="3">Nil Satis Nisi Optimum</text>
-  </g>
+<svg xmlns="http://www.w3.org/2000/svg" width="440" height="60" viewBox="0 0 440 60">
+  <text x="220" y="40" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" font-style="italic" fill="#1A1A1A" letter-spacing="3">Nil Satis Nisi Optimum</text>
 </svg>

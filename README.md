@@ -1,3 +1,5 @@
+<img align="right" width="440" src="./motto.svg?v=5" alt="Nil Satis Nisi Optimum" />
+
 <details>
   <summary>About me</summary>
   <br/>
@@ -247,4 +249,14 @@
   <summary>Profile Views</summary>
   <br/>
   <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+</details>
+
+
+<details>
+  <summary>Favorite Quote</summary>
+  <br/>
+  <p align="center">
+    <img src="./quotes/3.jpg" width="360" alt="The right man in the wrong place can make all the difference in the world — G-Man, Half-Life 2" />
+  </p>
+  <p align="center"><em>"The right man in the wrong place can make all the difference in the world."</em><br/>— G-Man, Half-Life 2</p>
 </details>
