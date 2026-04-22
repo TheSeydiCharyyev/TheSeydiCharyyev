@@ -1,3 +1,5 @@
+<img align="right" width="440" src="./motto.svg?v=1" alt="Nil Satis Nisi Optimum" />
+
 <details>
   <summary>About me</summary>
   <br/>
