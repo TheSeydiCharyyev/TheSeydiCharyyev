@@ -1,3 +1,28 @@
+<!-- TEST PREVIEW — remove before commit -->
+
+## Test: 1.png (G-Man — illusion of free choice)
+<img src="./quotes/1.png" width="480" />
+
+## Test: 2.png (Keep Calm — Unforeseen Consequences)
+<img src="./quotes/2.png" width="480" />
+
+## Test: 3.png (Right Man in the Wrong Place)
+<img src="./quotes/3.png" width="480" />
+
+## Test: 4.jpg (Join Civil Protection)
+<img src="./quotes/4.jpg" width="480" />
+
+## Test: alyx.gif
+<img src="./quotes/alyx.gif" width="480" />
+
+## Test: dove
+<img src="./quotes/d53234fafa6fa55392a8969bbed1418c.jpg" width="480" />
+
+## Test: Machiavelli
+<img src="./quotes/quote-the-ends-justifies-the-means-niccolo-machiavelli-40-57-73.jpg" width="480" />
+
+<!-- END TEST PREVIEW -->
+
 <details>
   <summary>About me</summary>
   <br/>
@@ -55,24 +80,6 @@
     </td>
     <td width="50%" align="center">
       <img src="https://github-readme-stats-six-sigma-59.vercel.app/api/top-langs/?username=TheSeydiCharyyev&theme=default&hide_border=true&langs_count=7" alt="Most Used Languages" />
-    </td>
-  </tr>
-</table>
-
-</details>
-
-
-<details>
-  <summary>Tech Stack</summary>
-  <br/>
-
-<table align="center">
-  <tr border="none">
-    <td width="50%" align="center">
-      <img src="./techstack_stats.svg?v=5" alt="Tech Stack Stats" />
-    </td>
-    <td width="50%" align="center">
-      <img src="./techstack_pie.svg?v=5" alt="Most Used Technologies" />
     </td>
   </tr>
 </table>
@@ -243,8 +250,3 @@
 </details>
 
 
-<details>
-  <summary>Profile Views</summary>
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=TheSeydiCharyyev&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
-</details>
