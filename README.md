@@ -15,6 +15,10 @@
 
 <br clear="right"/>
 
+<p align="center">
+  <em>"I just want to be successful enough to help people."</em>
+</p>
+
 </details>
 
 <details>
