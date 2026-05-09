@@ -1,28 +1,3 @@
-<!-- TEST PREVIEW — remove before commit -->
-
-## Test: 1.png (G-Man — illusion of free choice)
-<img src="./quotes/1.png" width="480" />
-
-## Test: 2.png (Keep Calm — Unforeseen Consequences)
-<img src="./quotes/2.png" width="480" />
-
-## Test: 3.png (Right Man in the Wrong Place)
-<img src="./quotes/3.png" width="480" />
-
-## Test: 4.jpg (Join Civil Protection)
-<img src="./quotes/4.jpg" width="480" />
-
-## Test: alyx.gif
-<img src="./quotes/alyx.gif" width="480" />
-
-## Test: dove
-<img src="./quotes/d53234fafa6fa55392a8969bbed1418c.jpg" width="480" />
-
-## Test: Machiavelli
-<img src="./quotes/quote-the-ends-justifies-the-means-niccolo-machiavelli-40-57-73.jpg" width="480" />
-
-<!-- END TEST PREVIEW -->
-
 <details>
   <summary>About me</summary>
   <br/>
