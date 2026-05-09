@@ -12,12 +12,9 @@
 - Cross-platform mobile apps with React Native & Expo
 - Open Source Contributor across JS, TS and browser engine projects
 - Creating tools for the Turkmen-speaking community
+- "I just want to be successful enough to help people."
 
 <br clear="right"/>
-
-<p align="center">
-  <em>"I just want to be successful enough to help people."</em>
-</p>
 
 </details>
 
