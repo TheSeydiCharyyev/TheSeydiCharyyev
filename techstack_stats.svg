@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="350" height="400" viewBox="0 0 350 400">
+<svg xmlns="http://www.w3.org/2000/svg" width="350" height="432" viewBox="0 0 350 432">
   <defs>
     <style>
       .title { font: 700 18px system-ui, -apple-system, sans-serif; fill: #24292f; }
@@ -106,7 +106,7 @@
   <g transform="translate(30, 72)">
     <use href="#icon-languages" x="-2" y="-13" width="16" height="16" color="#f1e05a"/>
     <text x="20" y="0" class="cat-label">Languages</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">6</text>
+    <text x="290" y="0" text-anchor="end" class="cat-value">7</text>
   </g>
   
   
@@ -132,20 +132,27 @@
   
   
   <g transform="translate(30, 200)">
+    <use href="#icon-build" x="-2" y="-13" width="16" height="16" color="#ff7b72"/>
+    <text x="20" y="0" class="cat-label">Build Tools</text>
+    <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
+  </g>
+  
+  
+  <g transform="translate(30, 232)">
     <use href="#icon-testing" x="-2" y="-13" width="16" height="16" color="#d29922"/>
     <text x="20" y="0" class="cat-label">Testing</text>
     <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
   </g>
   
   
-  <g transform="translate(30, 232)">
+  <g transform="translate(30, 264)">
     <use href="#icon-devops" x="-2" y="-13" width="16" height="16" color="#f0883e"/>
     <text x="20" y="0" class="cat-label">DevOps &amp; CI</text>
     <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
   </g>
   
   
-  <g transform="translate(30, 264)">
+  <g transform="translate(30, 296)">
     <use href="#icon-hosting" x="-2" y="-13" width="16" height="16" color="#f778ba"/>
     <text x="20" y="0" class="cat-label">Hosting</text>
     <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
@@ -154,16 +161,16 @@
 
   <!-- Separator line -->
   
-  <line x1="30" y1="306" x2="320" y2="306" stroke="#d0d7de" stroke-width="1" opacity="0.4"/>
+  <line x1="30" y1="338" x2="320" y2="338" stroke="#d0d7de" stroke-width="1" opacity="0.4"/>
 
   <!-- Totals -->
   
-  <g transform="translate(30, 334)">
+  <g transform="translate(30, 366)">
     <text x="0" y="0" class="sep-label">Total Technologies</text>
-    <text x="290" y="0" text-anchor="end" class="sep-value">14</text>
+    <text x="290" y="0" text-anchor="end" class="sep-value">16</text>
   </g>
-  <g transform="translate(30, 362)">
+  <g transform="translate(30, 394)">
     <text x="0" y="0" class="sep-label">Repos Analyzed</text>
-    <text x="290" y="0" text-anchor="end" class="sep-value">4</text>
+    <text x="290" y="0" text-anchor="end" class="sep-value">5</text>
   </g>
 </svg>
