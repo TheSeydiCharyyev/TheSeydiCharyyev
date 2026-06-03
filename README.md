@@ -213,6 +213,49 @@
   <summary>Certificates</summary>
   <br/>
 
+<table>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="./certs/microsoft.svg" height="30" alt="Microsoft" />
+      <br/><br/>
+      <strong>Microsoft Full-Stack Developer</strong>
+      <br/>
+      <sub>Microsoft &middot; Jan 2026</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/BA53MZBEB26P">View certificate</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="./certs/ibm.svg" height="30" alt="IBM" />
+      <br/><br/>
+      <strong>IBM Full Stack Software Developer</strong>
+      <br/>
+      <sub>IBM &middot; Jan 2026</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/GHZRJSZH8PQW">View certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="./certs/ibm.svg" height="30" alt="IBM" />
+      <br/><br/>
+      <strong>IBM Full-Stack JavaScript Developer</strong>
+      <br/>
+      <sub>IBM &middot; Jan 2026</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/FGG6Q56CBHNM">View certificate</a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="./certs/meta.svg" height="30" alt="Meta" />
+      <br/><br/>
+      <strong>Meta Full Stack Developer: Front-End &amp; Back-End from Scratch</strong>
+      <br/>
+      <sub>Meta &middot; Dec 2025</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/QGPE20YYUIYU">View certificate</a>
+    </td>
+  </tr>
+</table>
+
 </details>
 
 
