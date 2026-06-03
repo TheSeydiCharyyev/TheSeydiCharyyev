@@ -215,8 +215,8 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="./certs/microsoft.svg" height="30" alt="Microsoft" />
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/microsoft.svg" height="28" alt="Microsoft" />
       <br/><br/>
       <strong>Microsoft Full-Stack Developer</strong>
       <br/>
@@ -224,8 +224,8 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/specialization/BA53MZBEB26P">View certificate</a>
     </td>
-    <td width="50%" valign="top" align="center">
-      <img src="./certs/ibm.svg" height="30" alt="IBM" />
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/ibm.svg" height="28" alt="IBM" />
       <br/><br/>
       <strong>IBM Full Stack Software Developer</strong>
       <br/>
@@ -233,10 +233,8 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/specialization/GHZRJSZH8PQW">View certificate</a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <img src="./certs/ibm.svg" height="30" alt="IBM" />
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/ibm.svg" height="28" alt="IBM" />
       <br/><br/>
       <strong>IBM Full-Stack JavaScript Developer</strong>
       <br/>
@@ -244,8 +242,10 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/specialization/FGG6Q56CBHNM">View certificate</a>
     </td>
-    <td width="50%" valign="top" align="center">
-      <img src="./certs/meta.svg" height="30" alt="Meta" />
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/meta.svg" height="28" alt="Meta" />
       <br/><br/>
       <strong>Meta Full Stack Developer: Front-End &amp; Back-End from Scratch</strong>
       <br/>
