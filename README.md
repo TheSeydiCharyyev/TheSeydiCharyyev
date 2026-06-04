@@ -253,6 +253,15 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/specialization/QGPE20YYUIYU">View certificate</a>
     </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/codecademy.svg" height="28" alt="Codecademy" />
+      <br/><br/>
+      <strong>Full-Stack Engineer</strong>
+      <br/>
+      <sub>Codecademy &middot; Nov 2025</sub>
+      <br/><br/>
+      <a href="https://www.codecademy.com/profiles/SeydiCharyyev/certificates/ffd0f42cce1a44e9a0108b365047a0a6">View certificate</a>
+    </td>
   </tr>
 </table>
 
