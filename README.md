@@ -396,6 +396,8 @@
       <strong>LeetCode</strong>
       <br/>
       <sub>Coming soon</sub>
+      <br/>
+      <img src="./logos/spacer.png" width="280" height="1" alt="" />
     </td>
     <td width="33%" valign="top" align="center">
       <img src="./logos/codeforces.svg" height="72" alt="Codeforces" />
@@ -403,6 +405,8 @@
       <strong>Codeforces</strong>
       <br/>
       <sub>Coming soon</sub>
+      <br/>
+      <img src="./logos/spacer.png" width="280" height="1" alt="" />
     </td>
     <td width="33%" valign="top" align="center">
       <img src="./logos/topcoder.svg" height="72" alt="TopCoder" />
@@ -410,6 +414,8 @@
       <strong>TopCoder</strong>
       <br/>
       <sub>Coming soon</sub>
+      <br/>
+      <img src="./logos/spacer.png" width="280" height="1" alt="" />
     </td>
   </tr>
   <tr>
