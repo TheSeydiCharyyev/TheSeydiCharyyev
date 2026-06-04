@@ -388,7 +388,7 @@
   <summary>Coding Profiles</summary>
   <br/>
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top" align="center">
       <img src="./logos/leetcode.svg" height="72" alt="LeetCode" />
