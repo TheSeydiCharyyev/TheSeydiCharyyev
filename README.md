@@ -245,6 +245,44 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
+      <img src="./certs/ibm.svg" height="28" alt="IBM" />
+      <br/><br/>
+      <strong>IBM JavaScript Backend Developer</strong>
+      <br/>
+      <sub>IBM &middot; Jan 2026</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/2JD3OW2CZPU1">View certificate</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/microsoft.svg" height="28" alt="Microsoft" />
+      <br/><br/>
+      <strong>Microsoft Back-End Developer</strong>
+      <br/>
+      <sub>Microsoft &middot; Jan 2026</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/6X8OVTW7WOMP">View certificate</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/ibm.svg" height="28" alt="IBM" />
+      <br/><br/>
+      <strong>IBM Back-End Development</strong>
+      <br/>
+      <sub>IBM &middot; Dec 2025</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/A6QUCYAFSLYD">View certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/meta.svg" height="28" alt="Meta" />
+      <br/><br/>
+      <strong>Meta Back-End Developer</strong>
+      <br/>
+      <sub>Meta &middot; Dec 2025</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/ZUQQE38VBPVS">View certificate</a>
+    </td>
+    <td width="33%" valign="top" align="center">
       <img src="./certs/meta.svg" height="28" alt="Meta" />
       <br/><br/>
       <strong>Meta Full Stack Developer: Front-End &amp; Back-End from Scratch</strong>
@@ -261,6 +299,64 @@
       <sub>Codecademy &middot; Nov 2025</sub>
       <br/><br/>
       <a href="https://www.codecademy.com/profiles/SeydiCharyyev/certificates/ffd0f42cce1a44e9a0108b365047a0a6">View certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/hkust.svg" height="44" alt="HKUST" />
+      <br/><br/>
+      <strong>Software Engineering</strong>
+      <br/>
+      <sub>HKUST &middot; Nov 2025</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/HZKJIPNXX4MC">View certificate</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/microsoft.svg" height="28" alt="Microsoft" />
+      <br/><br/>
+      <strong>Microsoft UX Design</strong>
+      <br/>
+      <sub>Microsoft &middot; Sep 2025</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/WZG0BJ6AZ5IB">View certificate</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/microsoft.svg" height="28" alt="Microsoft" />
+      <br/><br/>
+      <strong>Microsoft Front-End Developer</strong>
+      <br/>
+      <sub>Microsoft &middot; Jul 2025</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/UUFZBRH8QG6Y">View certificate</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/ibm.svg" height="28" alt="IBM" />
+      <br/><br/>
+      <strong>IBM Front-End Developer</strong>
+      <br/>
+      <sub>IBM &middot; Jun 2025</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/Q7GWJUQ4GCN2">View certificate</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/meta.svg" height="28" alt="Meta" />
+      <br/><br/>
+      <strong>Meta Front-End Developer</strong>
+      <br/>
+      <sub>Meta &middot; Jun 2025</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/professional-cert/9P5MCCUGRSEB">View certificate</a>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/meta.svg" height="28" alt="Meta" />
+      <br/><br/>
+      <strong>Meta React</strong>
+      <br/>
+      <sub>Meta &middot; Jun 2025</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/E9H5KJA68HE9">View certificate</a>
     </td>
   </tr>
 </table>
