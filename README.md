@@ -391,21 +391,21 @@
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/leetcode.svg" height="64" alt="LeetCode" />
+      <img src="./logos/leetcode.svg" height="72" alt="LeetCode" />
       <br/>
       <strong>LeetCode</strong>
       <br/>
       <sub>Coming soon</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/codeforces.svg" height="64" alt="Codeforces" />
+      <img src="./logos/codeforces.svg" height="72" alt="Codeforces" />
       <br/>
       <strong>Codeforces</strong>
       <br/>
       <sub>Coming soon</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/topcoder.svg" height="64" alt="TopCoder" />
+      <img src="./logos/topcoder.svg" height="72" alt="TopCoder" />
       <br/>
       <strong>TopCoder</strong>
       <br/>
@@ -414,21 +414,21 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/codechef.svg" height="64" alt="CodeChef" />
+      <img src="./logos/codechef.svg" height="72" alt="CodeChef" />
       <br/>
       <strong>CodeChef</strong>
       <br/>
       <sub>Coming soon</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/hackerrank.svg" height="64" alt="HackerRank" />
+      <img src="./logos/hackerrank.svg" height="72" alt="HackerRank" />
       <br/>
       <strong>HackerRank</strong>
       <br/>
       <sub>Coming soon</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/hackerearth.svg" height="64" alt="HackerEarth" />
+      <img src="./logos/hackerearth.svg" height="72" alt="HackerEarth" />
       <br/>
       <strong>HackerEarth</strong>
       <br/>
@@ -437,21 +437,21 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/codesignal.svg" height="64" alt="CodeSignal" />
+      <img src="./logos/codesignal.svg" height="72" alt="CodeSignal" />
       <br/>
       <strong>CodeSignal</strong>
       <br/>
       <sub>Coming soon</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/codewars.svg" height="64" alt="Codewars" />
+      <img src="./logos/codewars.svg" height="72" alt="Codewars" />
       <br/>
       <strong>Codewars</strong>
       <br/>
       <sub>Coming soon</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/codingame.svg" height="64" alt="CodinGame" />
+      <img src="./logos/codingame.svg" height="72" alt="CodinGame" />
       <br/>
       <strong>CodinGame</strong>
       <br/>
@@ -460,21 +460,21 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/exercism.svg" height="64" alt="Exercism" />
+      <img src="./logos/exercism.svg" height="72" alt="Exercism" />
       <br/>
       <strong>Exercism</strong>
       <br/>
       <sub>Coming soon</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/kaggle.svg" height="64" alt="Kaggle" />
+      <img src="./logos/kaggle.svg" height="72" alt="Kaggle" />
       <br/>
       <strong>Kaggle</strong>
       <br/>
       <sub>Coming soon</sub>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./coding/geeksforgeeks.svg" height="64" alt="GeeksforGeeks" />
+      <img src="./logos/geeksforgeeks.svg" height="72" alt="GeeksforGeeks" />
       <br/>
       <strong>GeeksforGeeks</strong>
       <br/>
