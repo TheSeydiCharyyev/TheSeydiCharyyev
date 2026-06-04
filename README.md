@@ -385,6 +385,108 @@
 
 
 <details>
+  <summary>Coding Profiles</summary>
+  <br/>
+
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/leetcode.svg" height="40" alt="LeetCode" />
+      <br/><br/>
+      <strong>LeetCode</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/codeforces.svg" height="40" alt="Codeforces" />
+      <br/><br/>
+      <strong>Codeforces</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/atcoder.png" height="40" alt="AtCoder" />
+      <br/><br/>
+      <strong>AtCoder</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/topcoder.svg" height="40" alt="TopCoder" />
+      <br/><br/>
+      <strong>TopCoder</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/codechef.svg" height="40" alt="CodeChef" />
+      <br/><br/>
+      <strong>CodeChef</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/hackerrank.svg" height="40" alt="HackerRank" />
+      <br/><br/>
+      <strong>HackerRank</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/hackerearth.svg" height="40" alt="HackerEarth" />
+      <br/><br/>
+      <strong>HackerEarth</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/codesignal.svg" height="40" alt="CodeSignal" />
+      <br/><br/>
+      <strong>CodeSignal</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/codewars.svg" height="40" alt="Codewars" />
+      <br/><br/>
+      <strong>Codewars</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/kaggle.svg" height="40" alt="Kaggle" />
+      <br/><br/>
+      <strong>Kaggle</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/geeksforgeeks.svg" height="40" alt="GeeksforGeeks" />
+      <br/><br/>
+      <strong>GeeksforGeeks</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/codingame.svg" height="40" alt="CodinGame" />
+      <br/><br/>
+      <strong>CodinGame</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+  </tr>
+</table>
+
+</details>
+
+
+<details>
   <summary>Half-Life 3</summary>
   <br/>
   <img src="./Half-Life%203.png" width="100%" alt="Half-Life 3" />
