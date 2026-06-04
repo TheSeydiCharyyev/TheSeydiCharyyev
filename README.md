@@ -390,95 +390,41 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/leetcode.svg" height="40" alt="LeetCode" />
-      <br/><br/>
-      <strong>LeetCode</strong>
-      <br/>
-      <sub>Coming soon</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/codeforces.svg" height="40" alt="Codeforces" />
-      <br/><br/>
-      <strong>Codeforces</strong>
-      <br/>
-      <sub>Coming soon</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/atcoder.png" height="40" alt="AtCoder" />
-      <br/><br/>
-      <strong>AtCoder</strong>
-      <br/>
-      <sub>Coming soon</sub>
+    <td align="right" valign="middle"><strong>Competitive Programming</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Codeforces-coming_soon-9E9E9E?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces — coming soon" />
+      <img src="https://img.shields.io/badge/AtCoder-coming_soon-9E9E9E?style=flat-square" alt="AtCoder — coming soon" />
+      <img src="https://img.shields.io/badge/TopCoder-coming_soon-9E9E9E?style=flat-square&logo=topcoder&logoColor=white" alt="TopCoder — coming soon" />
+      <img src="https://img.shields.io/badge/CodeChef-coming_soon-9E9E9E?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef — coming soon" />
+      <img src="https://img.shields.io/badge/SPOJ-coming_soon-9E9E9E?style=flat-square" alt="SPOJ — coming soon" />
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/topcoder.svg" height="40" alt="TopCoder" />
-      <br/><br/>
-      <strong>TopCoder</strong>
-      <br/>
-      <sub>Coming soon</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/codechef.svg" height="40" alt="CodeChef" />
-      <br/><br/>
-      <strong>CodeChef</strong>
-      <br/>
-      <sub>Coming soon</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/hackerrank.svg" height="40" alt="HackerRank" />
-      <br/><br/>
-      <strong>HackerRank</strong>
-      <br/>
-      <sub>Coming soon</sub>
+    <td align="right" valign="middle"><strong>Interview &amp; Challenge</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/LeetCode-coming_soon-9E9E9E?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode — coming soon" />
+      <img src="https://img.shields.io/badge/HackerRank-coming_soon-9E9E9E?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank — coming soon" />
+      <img src="https://img.shields.io/badge/HackerEarth-coming_soon-9E9E9E?style=flat-square&logo=hackerearth&logoColor=white" alt="HackerEarth — coming soon" />
+      <img src="https://img.shields.io/badge/CodeSignal-coming_soon-9E9E9E?style=flat-square&logo=codesignal&logoColor=white" alt="CodeSignal — coming soon" />
+      <img src="https://img.shields.io/badge/Codewars-coming_soon-9E9E9E?style=flat-square&logo=codewars&logoColor=white" alt="Codewars — coming soon" />
+      <img src="https://img.shields.io/badge/CodinGame-coming_soon-9E9E9E?style=flat-square&logo=codingame&logoColor=white" alt="CodinGame — coming soon" />
+      <img src="https://img.shields.io/badge/Coderbyte-coming_soon-9E9E9E?style=flat-square&logo=coderbyte&logoColor=white" alt="Coderbyte — coming soon" />
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/hackerearth.svg" height="40" alt="HackerEarth" />
-      <br/><br/>
-      <strong>HackerEarth</strong>
-      <br/>
-      <sub>Coming soon</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/codesignal.svg" height="40" alt="CodeSignal" />
-      <br/><br/>
-      <strong>CodeSignal</strong>
-      <br/>
-      <sub>Coming soon</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/codewars.svg" height="40" alt="Codewars" />
-      <br/><br/>
-      <strong>Codewars</strong>
-      <br/>
-      <sub>Coming soon</sub>
+    <td align="right" valign="middle"><strong>Practice</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Exercism-coming_soon-9E9E9E?style=flat-square&logo=exercism&logoColor=white" alt="Exercism — coming soon" />
+      <img src="https://img.shields.io/badge/freeCodeCamp-coming_soon-9E9E9E?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp — coming soon" />
+      <img src="https://img.shields.io/badge/GeeksforGeeks-coming_soon-9E9E9E?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks — coming soon" />
+      <img src="https://img.shields.io/badge/Replit-coming_soon-9E9E9E?style=flat-square&logo=replit&logoColor=white" alt="Replit — coming soon" />
     </td>
   </tr>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/kaggle.svg" height="40" alt="Kaggle" />
-      <br/><br/>
-      <strong>Kaggle</strong>
-      <br/>
-      <sub>Coming soon</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/geeksforgeeks.svg" height="40" alt="GeeksforGeeks" />
-      <br/><br/>
-      <strong>GeeksforGeeks</strong>
-      <br/>
-      <sub>Coming soon</sub>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./coding/codingame.svg" height="40" alt="CodinGame" />
-      <br/><br/>
-      <strong>CodinGame</strong>
-      <br/>
-      <sub>Coming soon</sub>
+    <td align="right" valign="middle"><strong>Data &amp; Other</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Kaggle-coming_soon-9E9E9E?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle — coming soon" />
+      <img src="https://img.shields.io/badge/Project_Euler-coming_soon-9E9E9E?style=flat-square" alt="Project Euler — coming soon" />
     </td>
   </tr>
 </table>
