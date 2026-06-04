@@ -303,6 +303,15 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
+      <img src="./certs/codecademy.svg" height="28" alt="Codecademy" />
+      <br/><br/>
+      <strong>Back-End Engineer</strong>
+      <br/>
+      <sub>Codecademy &middot; Nov 2025</sub>
+      <br/><br/>
+      <a href="https://www.codecademy.com/profiles/SeydiCharyyev/certificates/810f53d14de24b938cc13c7c2af1e686">View certificate</a>
+    </td>
+    <td width="33%" valign="top" align="center">
       <img src="./certs/hkust.svg" height="44" alt="HKUST" />
       <br/><br/>
       <strong>Software Engineering</strong>
@@ -311,6 +320,17 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/specialization/HZKJIPNXX4MC">View certificate</a>
     </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./certs/codecademy.svg" height="28" alt="Codecademy" />
+      <br/><br/>
+      <strong>Front-End Engineer</strong>
+      <br/>
+      <sub>Codecademy &middot; Nov 2025</sub>
+      <br/><br/>
+      <a href="https://www.codecademy.com/profiles/SeydiCharyyev/certificates/2682884a0719474f96407efe432fdd87">View certificate</a>
+    </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top" align="center">
       <img src="./certs/microsoft.svg" height="28" alt="Microsoft" />
       <br/><br/>
@@ -329,8 +349,6 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/UUFZBRH8QG6Y">View certificate</a>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top" align="center">
       <img src="./certs/ibm.svg" height="28" alt="IBM" />
       <br/><br/>
@@ -340,6 +358,8 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/Q7GWJUQ4GCN2">View certificate</a>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top" align="center">
       <img src="./certs/meta.svg" height="28" alt="Meta" />
       <br/><br/>
