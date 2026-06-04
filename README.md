@@ -390,41 +390,95 @@
 
 <table>
   <tr>
-    <td align="right" valign="middle"><strong>Competitive Programming</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Codeforces-coming_soon-9E9E9E?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces — coming soon" />
-      <img src="https://img.shields.io/badge/AtCoder-coming_soon-9E9E9E?style=flat-square" alt="AtCoder — coming soon" />
-      <img src="https://img.shields.io/badge/TopCoder-coming_soon-9E9E9E?style=flat-square&logo=topcoder&logoColor=white" alt="TopCoder — coming soon" />
-      <img src="https://img.shields.io/badge/CodeChef-coming_soon-9E9E9E?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef — coming soon" />
-      <img src="https://img.shields.io/badge/SPOJ-coming_soon-9E9E9E?style=flat-square" alt="SPOJ — coming soon" />
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/leetcode.svg" width="120" alt="LeetCode" />
+      <br/>
+      <strong>LeetCode</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/codeforces.svg" width="120" alt="Codeforces" />
+      <br/>
+      <strong>Codeforces</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/topcoder.svg" width="120" alt="TopCoder" />
+      <br/>
+      <strong>TopCoder</strong>
+      <br/>
+      <sub>Coming soon</sub>
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><strong>Interview &amp; Challenge</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/LeetCode-coming_soon-9E9E9E?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode — coming soon" />
-      <img src="https://img.shields.io/badge/HackerRank-coming_soon-9E9E9E?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank — coming soon" />
-      <img src="https://img.shields.io/badge/HackerEarth-coming_soon-9E9E9E?style=flat-square&logo=hackerearth&logoColor=white" alt="HackerEarth — coming soon" />
-      <img src="https://img.shields.io/badge/CodeSignal-coming_soon-9E9E9E?style=flat-square&logo=codesignal&logoColor=white" alt="CodeSignal — coming soon" />
-      <img src="https://img.shields.io/badge/Codewars-coming_soon-9E9E9E?style=flat-square&logo=codewars&logoColor=white" alt="Codewars — coming soon" />
-      <img src="https://img.shields.io/badge/CodinGame-coming_soon-9E9E9E?style=flat-square&logo=codingame&logoColor=white" alt="CodinGame — coming soon" />
-      <img src="https://img.shields.io/badge/Coderbyte-coming_soon-9E9E9E?style=flat-square&logo=coderbyte&logoColor=white" alt="Coderbyte — coming soon" />
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/codechef.svg" width="120" alt="CodeChef" />
+      <br/>
+      <strong>CodeChef</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/hackerrank.svg" width="120" alt="HackerRank" />
+      <br/>
+      <strong>HackerRank</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/hackerearth.svg" width="120" alt="HackerEarth" />
+      <br/>
+      <strong>HackerEarth</strong>
+      <br/>
+      <sub>Coming soon</sub>
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><strong>Practice</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Exercism-coming_soon-9E9E9E?style=flat-square&logo=exercism&logoColor=white" alt="Exercism — coming soon" />
-      <img src="https://img.shields.io/badge/freeCodeCamp-coming_soon-9E9E9E?style=flat-square&logo=freecodecamp&logoColor=white" alt="freeCodeCamp — coming soon" />
-      <img src="https://img.shields.io/badge/GeeksforGeeks-coming_soon-9E9E9E?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks — coming soon" />
-      <img src="https://img.shields.io/badge/Replit-coming_soon-9E9E9E?style=flat-square&logo=replit&logoColor=white" alt="Replit — coming soon" />
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/codesignal.svg" width="120" alt="CodeSignal" />
+      <br/>
+      <strong>CodeSignal</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/codewars.svg" width="120" alt="Codewars" />
+      <br/>
+      <strong>Codewars</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/codingame.svg" width="120" alt="CodinGame" />
+      <br/>
+      <strong>CodinGame</strong>
+      <br/>
+      <sub>Coming soon</sub>
     </td>
   </tr>
   <tr>
-    <td align="right" valign="middle"><strong>Data &amp; Other</strong></td>
-    <td>
-      <img src="https://img.shields.io/badge/Kaggle-coming_soon-9E9E9E?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle — coming soon" />
-      <img src="https://img.shields.io/badge/Project_Euler-coming_soon-9E9E9E?style=flat-square" alt="Project Euler — coming soon" />
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/exercism.svg" width="120" alt="Exercism" />
+      <br/>
+      <strong>Exercism</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/kaggle.svg" width="120" alt="Kaggle" />
+      <br/>
+      <strong>Kaggle</strong>
+      <br/>
+      <sub>Coming soon</sub>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./coding/geeksforgeeks.svg" width="120" alt="GeeksforGeeks" />
+      <br/>
+      <strong>GeeksforGeeks</strong>
+      <br/>
+      <sub>Coming soon</sub>
     </td>
   </tr>
 </table>
