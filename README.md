@@ -245,6 +245,15 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
+      <img src="./certs/packt.svg" height="34" alt="Packt" />
+      <br/><br/>
+      <strong>MERN Stack Front To Back: Full Stack React, Redux &amp; Node.js</strong>
+      <br/>
+      <sub>Packt &middot; Jan 2026</sub>
+      <br/><br/>
+      <a href="https://www.coursera.org/account/accomplishments/specialization/TR5AG0EHZTUT">View certificate</a>
+    </td>
+    <td width="33%" valign="top" align="center">
       <img src="./certs/ibm.svg" height="28" alt="IBM" />
       <br/><br/>
       <strong>IBM JavaScript Backend Developer</strong>
@@ -262,6 +271,8 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/6X8OVTW7WOMP">View certificate</a>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top" align="center">
       <img src="./certs/ibm.svg" height="28" alt="IBM" />
       <br/><br/>
@@ -271,8 +282,6 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/A6QUCYAFSLYD">View certificate</a>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top" align="center">
       <img src="./certs/meta.svg" height="28" alt="Meta" />
       <br/><br/>
@@ -291,6 +300,8 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/specialization/QGPE20YYUIYU">View certificate</a>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top" align="center">
       <img src="./certs/codecademy.svg" height="28" alt="Codecademy" />
       <br/><br/>
@@ -300,8 +311,6 @@
       <br/><br/>
       <a href="https://www.codecademy.com/profiles/SeydiCharyyev/certificates/ffd0f42cce1a44e9a0108b365047a0a6">View certificate</a>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top" align="center">
       <img src="./certs/codecademy.svg" height="28" alt="Codecademy" />
       <br/><br/>
@@ -320,6 +329,8 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/specialization/HZKJIPNXX4MC">View certificate</a>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top" align="center">
       <img src="./certs/codecademy.svg" height="28" alt="Codecademy" />
       <br/><br/>
@@ -329,8 +340,6 @@
       <br/><br/>
       <a href="https://www.codecademy.com/profiles/SeydiCharyyev/certificates/2682884a0719474f96407efe432fdd87">View certificate</a>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top" align="center">
       <img src="./certs/microsoft.svg" height="28" alt="Microsoft" />
       <br/><br/>
@@ -349,6 +358,8 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/UUFZBRH8QG6Y">View certificate</a>
     </td>
+  </tr>
+  <tr>
     <td width="33%" valign="top" align="center">
       <img src="./certs/ibm.svg" height="28" alt="IBM" />
       <br/><br/>
@@ -358,8 +369,6 @@
       <br/><br/>
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/Q7GWJUQ4GCN2">View certificate</a>
     </td>
-  </tr>
-  <tr>
     <td width="33%" valign="top" align="center">
       <img src="./certs/meta.svg" height="28" alt="Meta" />
       <br/><br/>
