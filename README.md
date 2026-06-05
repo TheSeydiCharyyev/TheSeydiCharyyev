@@ -216,7 +216,7 @@
 <table>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/microsoft.svg" height="28" alt="Microsoft" />
+      <img src="./certs/microsoft.svg" height="28" align="middle" alt="Microsoft" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Microsoft Full-Stack Developer</strong>
       <br/>
@@ -225,7 +225,7 @@
       <a href="https://www.coursera.org/account/accomplishments/specialization/BA53MZBEB26P">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/ibm.svg" height="28" alt="IBM" />
+      <img src="./certs/ibm.svg" height="28" align="middle" alt="IBM" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>IBM Full Stack Software Developer</strong>
       <br/>
@@ -234,7 +234,7 @@
       <a href="https://www.coursera.org/account/accomplishments/specialization/GHZRJSZH8PQW">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/ibm.svg" height="28" alt="IBM" />
+      <img src="./certs/ibm.svg" height="28" align="middle" alt="IBM" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>IBM Full-Stack JavaScript Developer</strong>
       <br/>
@@ -245,7 +245,7 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/packt.svg" height="40" alt="Packt" />
+      <img src="./certs/packt.svg" height="40" align="middle" alt="Packt" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>MERN Stack Front To Back: Full Stack React, Redux &amp; Node.js</strong>
       <br/>
@@ -254,7 +254,7 @@
       <a href="https://www.coursera.org/account/accomplishments/specialization/TR5AG0EHZTUT">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/ibm.svg" height="28" alt="IBM" />
+      <img src="./certs/ibm.svg" height="28" align="middle" alt="IBM" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>IBM JavaScript Backend Developer</strong>
       <br/>
@@ -263,7 +263,7 @@
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/2JD3OW2CZPU1">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/microsoft.svg" height="28" alt="Microsoft" />
+      <img src="./certs/microsoft.svg" height="28" align="middle" alt="Microsoft" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Microsoft Back-End Developer</strong>
       <br/>
@@ -274,7 +274,7 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/ibm.svg" height="28" alt="IBM" />
+      <img src="./certs/ibm.svg" height="28" align="middle" alt="IBM" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>IBM Back-End Development</strong>
       <br/>
@@ -283,7 +283,7 @@
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/A6QUCYAFSLYD">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/meta.svg" height="28" alt="Meta" />
+      <img src="./certs/meta.svg" height="28" align="middle" alt="Meta" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Meta Back-End Developer</strong>
       <br/>
@@ -292,7 +292,7 @@
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/ZUQQE38VBPVS">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/meta.svg" height="28" alt="Meta" />
+      <img src="./certs/meta.svg" height="28" align="middle" alt="Meta" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Meta Full Stack Developer: Front-End &amp; Back-End from Scratch</strong>
       <br/>
@@ -303,7 +303,7 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/codecademy.svg" height="28" alt="Codecademy" />
+      <img src="./certs/codecademy.svg" height="28" align="middle" alt="Codecademy" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Full-Stack Engineer</strong>
       <br/>
@@ -312,7 +312,7 @@
       <a href="https://www.codecademy.com/profiles/SeydiCharyyev/certificates/ffd0f42cce1a44e9a0108b365047a0a6">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/codecademy.svg" height="28" alt="Codecademy" />
+      <img src="./certs/codecademy.svg" height="28" align="middle" alt="Codecademy" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Back-End Engineer</strong>
       <br/>
@@ -321,7 +321,7 @@
       <a href="https://www.codecademy.com/profiles/SeydiCharyyev/certificates/810f53d14de24b938cc13c7c2af1e686">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/hkust.svg" height="44" alt="HKUST" />
+      <img src="./certs/hkust.svg" height="44" align="middle" alt="HKUST" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Software Engineering</strong>
       <br/>
@@ -332,7 +332,7 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/codecademy.svg" height="28" alt="Codecademy" />
+      <img src="./certs/codecademy.svg" height="28" align="middle" alt="Codecademy" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Front-End Engineer</strong>
       <br/>
@@ -341,7 +341,7 @@
       <a href="https://www.codecademy.com/profiles/SeydiCharyyev/certificates/2682884a0719474f96407efe432fdd87">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/microsoft.svg" height="28" alt="Microsoft" />
+      <img src="./certs/microsoft.svg" height="28" align="middle" alt="Microsoft" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Microsoft UX Design</strong>
       <br/>
@@ -350,7 +350,7 @@
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/WZG0BJ6AZ5IB">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/microsoft.svg" height="28" alt="Microsoft" />
+      <img src="./certs/microsoft.svg" height="28" align="middle" alt="Microsoft" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Microsoft Front-End Developer</strong>
       <br/>
@@ -361,7 +361,7 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/ibm.svg" height="28" alt="IBM" />
+      <img src="./certs/ibm.svg" height="28" align="middle" alt="IBM" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>IBM Front-End Developer</strong>
       <br/>
@@ -370,7 +370,7 @@
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/Q7GWJUQ4GCN2">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/meta.svg" height="28" alt="Meta" />
+      <img src="./certs/meta.svg" height="28" align="middle" alt="Meta" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Meta Front-End Developer</strong>
       <br/>
@@ -379,7 +379,7 @@
       <a href="https://www.coursera.org/account/accomplishments/professional-cert/9P5MCCUGRSEB">View certificate</a>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/meta.svg" height="28" alt="Meta" />
+      <img src="./certs/meta.svg" height="28" align="middle" alt="Meta" /><img src="./logos/spacer.png" width="1" height="44" align="middle" alt="" />
       <br/><br/>
       <strong>Meta React</strong>
       <br/>
