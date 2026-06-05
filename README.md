@@ -245,7 +245,7 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./certs/packt.svg" height="34" alt="Packt" />
+      <img src="./certs/packt.svg" height="40" alt="Packt" />
       <br/><br/>
       <strong>MERN Stack Front To Back: Full Stack React, Redux &amp; Node.js</strong>
       <br/>
