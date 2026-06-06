@@ -404,7 +404,7 @@
       <br/>
       <strong>LeetCode</strong>
       <br/>
-      <sub>Coming soon</sub>
+      <a href="https://leetcode.com/u/seydi_charyyev/">View profile</a>
       <br/>
       <img src="./logos/spacer.png" width="280" height="1" alt="" />
     </td>
