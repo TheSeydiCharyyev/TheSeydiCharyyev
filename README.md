@@ -463,7 +463,7 @@
       <br/>
       <strong>Codewars</strong>
       <br/>
-      <sub>Coming soon</sub>
+      <a href="https://www.codewars.com/users/Seydi%20Charyyev">View profile</a>
     </td>
     <td width="33%" valign="top" align="center">
       <img src="./logos/codingame.svg" height="72" alt="CodinGame" />
