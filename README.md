@@ -413,7 +413,7 @@
       <br/>
       <strong>Codeforces</strong>
       <br/>
-      <sub>Coming soon</sub>
+      <a href="https://codeforces.com/profile/Seydi">View profile</a>
       <br/>
       <img src="./logos/spacer.png" width="280" height="1" alt="" />
     </td>
