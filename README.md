@@ -60,6 +60,12 @@
   </tr>
 </table>
 
+<p align="center">
+  <a href="https://vaunt.dev">
+    <img src="https://api.vaunt.dev/v1/github/entities/TheSeydiCharyyev/contributions?format=svg" width="350" alt="Vaunt — Open Source Contributions" title="Includes public contributions" />
+  </a>
+</p>
+
 </details>
 
 
