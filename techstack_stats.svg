@@ -118,29 +118,29 @@
   
   
   <g transform="translate(30, 136)">
+    <use href="#icon-testing" x="-2" y="-13" width="16" height="16" color="#d29922"/>
+    <text x="20" y="0" class="cat-label">Testing</text>
+    <text x="290" y="0" text-anchor="end" class="cat-value">2</text>
+  </g>
+  
+  
+  <g transform="translate(30, 168)">
     <use href="#icon-backend" x="-2" y="-13" width="16" height="16" color="#da3633"/>
     <text x="20" y="0" class="cat-label">Backend &amp; Server</text>
     <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
   </g>
   
   
-  <g transform="translate(30, 168)">
+  <g transform="translate(30, 200)">
     <use href="#icon-http-api" x="-2" y="-13" width="16" height="16" color="#56d4dd"/>
     <text x="20" y="0" class="cat-label">HTTP &amp; API</text>
     <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
   </g>
   
   
-  <g transform="translate(30, 200)">
+  <g transform="translate(30, 232)">
     <use href="#icon-build" x="-2" y="-13" width="16" height="16" color="#ff7b72"/>
     <text x="20" y="0" class="cat-label">Build Tools</text>
-    <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
-  </g>
-  
-  
-  <g transform="translate(30, 232)">
-    <use href="#icon-testing" x="-2" y="-13" width="16" height="16" color="#d29922"/>
-    <text x="20" y="0" class="cat-label">Testing</text>
     <text x="290" y="0" text-anchor="end" class="cat-value">1</text>
   </g>
   
@@ -167,10 +167,10 @@
   
   <g transform="translate(30, 366)">
     <text x="0" y="0" class="sep-label">Total Technologies</text>
-    <text x="290" y="0" text-anchor="end" class="sep-value">16</text>
+    <text x="290" y="0" text-anchor="end" class="sep-value">17</text>
   </g>
   <g transform="translate(30, 394)">
     <text x="0" y="0" class="sep-label">Repos Analyzed</text>
-    <text x="290" y="0" text-anchor="end" class="sep-value">5</text>
+    <text x="290" y="0" text-anchor="end" class="sep-value">7</text>
   </g>
 </svg>
