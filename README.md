@@ -507,5 +507,3 @@
   <br/>
   <img src="./Half-Life%203.png" width="100%" alt="Half-Life 3" />
 </details>
-
-
