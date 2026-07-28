@@ -98,9 +98,9 @@
       <strong>Vue.js</strong>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./stack/angular.svg" height="72" alt="Angular" />
+      <img src="./stack/react.svg" height="72" alt="React Native" />
       <br/>
-      <strong>Angular</strong>
+      <strong>React Native</strong>
     </td>
     <td width="33%" valign="top" align="center">
       <img src="./stack/nodedotjs.svg" height="72" alt="Node.js" />
@@ -110,14 +110,14 @@
   </tr>
   <tr>
     <td width="33%" valign="top" align="center">
-      <img src="./stack/react.svg" height="72" alt="React Native" />
-      <br/>
-      <strong>React Native</strong>
-    </td>
-    <td width="33%" valign="top" align="center">
       <img src="./stack/svelte.svg" height="72" alt="Svelte" />
       <br/>
       <strong>Svelte</strong>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./stack/rust.svg" height="72" alt="Rust" />
+      <br/>
+      <strong>Rust</strong>
     </td>
     <td width="33%" valign="top" align="center">
       <img src="./stack/delphi.svg" height="72" alt="Delphi" />
