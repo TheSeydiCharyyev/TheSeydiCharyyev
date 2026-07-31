@@ -22,35 +22,43 @@
   <summary>Projects</summary>
   <br/>
 
-<h3><img src="./orgs/shapak.png" height="34" align="middle" alt="" /> &nbsp;Shapak-Apps</h3>
-<p><em>Turkmen-language learning apps &middot; React Native / Expo</em> &nbsp;&middot;&nbsp; <a href="https://github.com/Shapak-Apps">github.com/Shapak-Apps</a></p>
-
-<p><b>Ykjam Terjime</b> — Turkmen phrasebook & translator with AI-powered translations and text-to-speech support.</p>
-<p>
-  <code>React Native</code>
-  <code>TypeScript</code>
-  <code>Expo</code>
-  <code>Gemini AI</code>
-</p>
-<p>
-  <img src="https://img.shields.io/badge/305-phrases-3178C6?style=flat-square" alt="305 phrases" />
-  <img src="https://img.shields.io/badge/22-categories-8B5CF6?style=flat-square" alt="22 categories" />
-  <img src="https://img.shields.io/badge/31-languages-10B981?style=flat-square" alt="31 languages" />
-  <img src="https://img.shields.io/badge/Gemini_AI-assistant-F59E0B?style=flat-square&logo=googlegemini&logoColor=white" alt="Gemini AI" />
-  <img src="https://img.shields.io/badge/TTS-all_languages-EF4444?style=flat-square" alt="Text-to-speech" />
-</p>
-<p>
-  <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" alt="Download on the App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shapak.translator"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" alt="Get it on Google Play" /></a>
-</p>
-<p><sub>Also in development: <b>Hytaý dili 1</b> (Türkmen &rarr; Chinese) &middot; <b>Iňlis dili 1</b> (Türkmen &rarr; English)</sub></p>
-
-<br/>
-
-<h3><img src="./orgs/proofstone.png" height="34" align="middle" alt="" /> &nbsp;proofstone</h3>
-<p><em>Engineering roadmaps where every milestone is a verifiable artifact, not a keyword.</em> &nbsp;&middot;&nbsp; <a href="https://proofstone.dev">proofstone.dev</a> &nbsp;&middot;&nbsp; <a href="https://github.com/proofstone">github.com/proofstone</a></p>
-
-<p><b>Roadmaps:</b> AI Safety Engineer &middot; Distributed Systems Engineer &middot; Applied Cryptography</p>
-<p><b>Labs:</b> <a href="https://github.com/proofstone/minrepro">minrepro</a> — prove the bug with a failing test &middot; <a href="https://github.com/proofstone/swim-lab">swim-lab</a> — SWIM protocol in Go</p>
+<table>
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="./orgs/shapak.png" height="84" alt="Shapak-Apps" />
+      <br/><br/>
+      <strong>Shapak-Apps</strong>
+      <br/>
+      <sub>Turkmen learning apps &middot; React Native / Expo</sub>
+      <br/><br/>
+      <a href="https://github.com/Shapak-Apps">View organization</a>
+      <br/>
+      <img src="./logos/spacer.png" width="290" height="1" alt="" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./orgs/proofstone.png" height="84" alt="proofstone" />
+      <br/><br/>
+      <strong>proofstone</strong>
+      <br/>
+      <sub>Engineering roadmaps you can prove &middot; proofstone.dev</sub>
+      <br/><br/>
+      <a href="https://proofstone.dev">Visit site</a>
+      <br/>
+      <img src="./logos/spacer.png" width="290" height="1" alt="" />
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="./logos/spacer.png" width="1" height="84" alt="" />
+      <br/><br/>
+      <strong>Ykjam Terjime</strong>
+      <br/>
+      <sub>Phrasebook &amp; translator &middot; React Native / Expo</sub>
+      <br/><br/>
+      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> &middot; <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
+      <br/>
+      <img src="./logos/spacer.png" width="290" height="1" alt="" />
+    </td>
+  </tr>
+</table>
 
 </details>
 
