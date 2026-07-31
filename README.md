@@ -22,8 +22,10 @@
   <summary>Projects</summary>
   <br/>
 
-<h3>Ykjam Terjime</h3>
-<p>Turkmen phrasebook & translator with AI-powered translations and text-to-speech support.</p>
+<h3><img src="./orgs/shapak.png" height="34" align="middle" alt="" /> &nbsp;Shapak-Apps</h3>
+<p><em>Turkmen-language learning apps &middot; React Native / Expo</em> &nbsp;&middot;&nbsp; <a href="https://github.com/Shapak-Apps">github.com/Shapak-Apps</a></p>
+
+<p><b>Ykjam Terjime</b> — Turkmen phrasebook & translator with AI-powered translations and text-to-speech support.</p>
 <p>
   <code>React Native</code>
   <code>TypeScript</code>
@@ -40,6 +42,15 @@
 <p>
   <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" alt="Download on the App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shapak.translator"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" alt="Get it on Google Play" /></a>
 </p>
+<p><sub>Also in development: <b>Hytaý dili 1</b> (Türkmen &rarr; Chinese) &middot; <b>Iňlis dili 1</b> (Türkmen &rarr; English)</sub></p>
+
+<br/>
+
+<h3><img src="./orgs/proofstone.png" height="34" align="middle" alt="" /> &nbsp;proofstone</h3>
+<p><em>Engineering roadmaps where every milestone is a verifiable artifact, not a keyword.</em> &nbsp;&middot;&nbsp; <a href="https://proofstone.dev">proofstone.dev</a> &nbsp;&middot;&nbsp; <a href="https://github.com/proofstone">github.com/proofstone</a></p>
+
+<p><b>Roadmaps:</b> AI Safety Engineer &middot; Distributed Systems Engineer &middot; Applied Cryptography</p>
+<p><b>Labs:</b> <a href="https://github.com/proofstone/minrepro">minrepro</a> — prove the bug with a failing test &middot; <a href="https://github.com/proofstone/swim-lab">swim-lab</a> — SWIM protocol in Go</p>
 
 </details>
 
