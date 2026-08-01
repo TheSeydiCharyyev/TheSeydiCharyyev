@@ -29,11 +29,11 @@
       <br/><br/>
       <strong>Shapak-Apps</strong>
       <br/>
-      <sub>Turkmen learning apps &middot; React Native / Expo</sub>
+      <sub>The first open-source software organization based in Turkmenistan</sub>
       <br/><br/>
       <a href="https://github.com/Shapak-Apps">View organization</a>
       <br/>
-      <img src="./logos/spacer.png" width="290" height="1" alt="" />
+      <img src="./logos/spacer.png" width="300" height="1" alt="" />
     </td>
     <td width="33%" valign="top" align="center">
       <img src="./orgs/proofstone.png" height="84" alt="proofstone" />
@@ -44,18 +44,17 @@
       <br/><br/>
       <a href="https://proofstone.dev">Visit site</a>
       <br/>
-      <img src="./logos/spacer.png" width="290" height="1" alt="" />
+      <img src="./logos/spacer.png" width="300" height="1" alt="" />
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./logos/spacer.png" width="1" height="84" alt="" />
-      <br/><br/>
-      <strong>Ykjam Terjime</strong>
+      <img src="./logos/spacer.png" width="1" height="24" alt="" />
       <br/>
+      <h3>Ykjam Terjime</h3>
       <sub>Phrasebook &amp; translator &middot; React Native / Expo</sub>
       <br/><br/>
-      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845">App Store</a> &middot; <a href="https://play.google.com/store/apps/details?id=com.shapak.translator">Google Play</a>
+      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" alt="Download on the App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shapak.translator"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" alt="Get it on Google Play" /></a>
       <br/>
-      <img src="./logos/spacer.png" width="290" height="1" alt="" />
+      <img src="./logos/spacer.png" width="300" height="1" alt="" />
     </td>
   </tr>
 </table>
