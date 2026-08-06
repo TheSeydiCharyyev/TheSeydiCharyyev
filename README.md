@@ -29,7 +29,7 @@
       <br/><br/>
       <strong>Shapak-Apps</strong>
       <br/>
-      <sub>The first open-source software organization based in Turkmenistan</sub>
+      <sub>Open-source mobile apps built in Turkmenistan &middot; shapak-apps.github.io</sub>
       <br/><br/>
       <a href="https://github.com/Shapak-Apps">View organization</a>
       <br/>
@@ -47,9 +47,10 @@
       <img src="./logos/spacer.png" width="300" height="1" alt="" />
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="./logos/spacer.png" width="1" height="24" alt="" />
+      <img src="./orgs/ykjam.png" height="84" alt="Ykjam Terjime" />
+      <br/><br/>
+      <strong>Ykjam Terjime</strong>
       <br/>
-      <h3>Ykjam Terjime</h3>
       <sub>Phrasebook &amp; translator &middot; React Native / Expo</sub>
       <br/><br/>
       <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" alt="Download on the App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shapak.translator"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" alt="Get it on Google Play" /></a>
