@@ -29,9 +29,9 @@
       <br/><br/>
       <strong>Shapak-Apps</strong>
       <br/>
-      <sub>Open-source mobile apps built in Turkmenistan &middot; shapak-apps.github.io</sub>
+      <sub>Open-source mobile apps built in Turkmenistan</sub>
       <br/><br/>
-      <a href="https://github.com/Shapak-Apps">View organization</a>
+      <a href="https://shapak-apps.github.io">Visit site</a> &middot; <a href="https://github.com/Shapak-Apps">Organization</a>
       <br/>
       <img src="./logos/spacer.png" width="300" height="1" alt="" />
     </td>
@@ -40,9 +40,9 @@
       <br/><br/>
       <strong>proofstone</strong>
       <br/>
-      <sub>Engineering roadmaps you can prove &middot; proofstone.dev</sub>
+      <sub>Engineering roadmaps you can prove</sub>
       <br/><br/>
-      <a href="https://proofstone.dev">Visit site</a>
+      <a href="https://proofstone.dev">Visit site</a> &middot; <a href="https://github.com/proofstone">Organization</a>
       <br/>
       <img src="./logos/spacer.png" width="300" height="1" alt="" />
     </td>
