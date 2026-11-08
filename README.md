@@ -2,19 +2,19 @@
   <summary>About me</summary>
   <br/>
 
-<img src="./NUX_Octodex.gif" width="200" align="right" />
+<img src="./about-banner.gif" width="100%" alt="Nil Satis Nisi Optimum — freedom tech · bitcoin · lightning · nostr" />
 
 ### Hey, I'm Seydi
 
-**Full Stack JavaScript Engineer & React Native Developer from Turkmenistan 🇹🇲**
+**Full Stack JavaScript/TypeScript Engineer & React Native Developer**<br/>
+**Programming Instructor & Mentor**
 
-- Full stack web development with modern JS/TS
-- Cross-platform mobile apps with React Native & Expo
-- Open Source Contributor across JS, TS and browser engine projects
-- Creating tools for the Turkmen-speaking community
+- Web apps with React, Node.js, Vue and Svelte
+- Mobile apps with React Native & Expo, published on the App Store and Google Play
+- Bitcoin & Nostr developer: Lightning wallets, Nostr protocol, clients and libraries, decentralized identity
+- Active open source contributor to JavaScript, TypeScript and Rust projects: AI agents and coding tools, UI tools and education
+- Building open-source apps and learning materials for Turkmen speakers
 - I just want to be successful enough to help people.
-
-<br clear="right"/>
 
 </details>
 
