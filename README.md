@@ -24,38 +24,27 @@
 
 <table>
   <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="./orgs/shapak.png" height="84" alt="Shapak-Apps" />
-      <br/><br/>
-      <strong>Shapak-Apps</strong>
+    <td width="50%" valign="top" align="center">
+      <a href="https://shapak-apps.github.io"><img src="./projects/shapak.gif" width="100%" alt="Shapak-Apps: open-source mobile apps built in Turkmenistan" /></a>
       <br/>
-      <sub>Open-source mobile apps built in Turkmenistan</sub>
-      <br/><br/>
       <a href="https://shapak-apps.github.io">Visit site</a> &middot; <a href="https://github.com/Shapak-Apps">Organization</a>
-      <br/>
-      <img src="./logos/spacer.png" width="300" height="1" alt="" />
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./orgs/proofstone.png" height="84" alt="proofstone" />
-      <br/><br/>
-      <strong>proofstone</strong>
+    <td width="50%" valign="top" align="center">
+      <a href="https://proofstone.dev"><img src="./projects/proofstone.gif" width="100%" alt="proofstone: engineering roadmaps you can prove" /></a>
       <br/>
-      <sub>Engineering roadmaps you can prove</sub>
-      <br/><br/>
       <a href="https://proofstone.dev">Visit site</a> &middot; <a href="https://github.com/proofstone">Organization</a>
-      <br/>
-      <img src="./logos/spacer.png" width="300" height="1" alt="" />
     </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./orgs/ykjam.png" height="84" alt="Ykjam Terjime" />
-      <br/><br/>
-      <strong>Ykjam Terjime</strong>
+  </tr>
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <a href="https://shapak-apps.github.io/ykjam-terjime/"><img src="./projects/ykjam.gif" width="100%" alt="Ykjam Terjime: phrasebook and translator, React Native / Expo" /></a>
       <br/>
-      <sub>Phrasebook &amp; translator &middot; React Native / Expo</sub>
-      <br/><br/>
       <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" alt="Download on the App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shapak.translator"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" alt="Get it on Google Play" /></a>
+    </td>
+    <td width="50%" valign="top" align="center">
+      <a href="https://github.com/Shapak-Apps/turkmen-chinese"><img src="./projects/hytay.gif" width="100%" alt="Hytaý dili 1: Chinese course for Turkmen speakers, React Native / Expo" /></a>
       <br/>
-      <img src="./logos/spacer.png" width="300" height="1" alt="" />
+      <a href="https://apps.apple.com/app/id6801010061"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" alt="Download on the App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.turkmenlearn.chinese"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" alt="Get it on Google Play" /></a>
     </td>
   </tr>
 </table>
