@@ -45,65 +45,14 @@
   <summary>What I Work With</summary>
   <br/>
 
-<table>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="./stack/javascript.svg" height="72" alt="JavaScript" />
-      <br/>
-      <strong>JavaScript</strong>
-      <br/>
-      <img src="./logos/spacer.png" width="280" height="1" alt="" />
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./stack/typescript.svg" height="72" alt="TypeScript" />
-      <br/>
-      <strong>TypeScript</strong>
-      <br/>
-      <img src="./logos/spacer.png" width="280" height="1" alt="" />
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./stack/react.svg" height="72" alt="React" />
-      <br/>
-      <strong>React</strong>
-      <br/>
-      <img src="./logos/spacer.png" width="280" height="1" alt="" />
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="./stack/vuedotjs.svg" height="72" alt="Vue.js" />
-      <br/>
-      <strong>Vue.js</strong>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./stack/react.svg" height="72" alt="React Native" />
-      <br/>
-      <strong>React Native</strong>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./stack/nodedotjs.svg" height="72" alt="Node.js" />
-      <br/>
-      <strong>Node.js</strong>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <img src="./stack/svelte.svg" height="72" alt="Svelte" />
-      <br/>
-      <strong>Svelte</strong>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./stack/rust.svg" height="72" alt="Rust" />
-      <br/>
-      <strong>Rust</strong>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <img src="./stack/delphi.svg" height="72" alt="Delphi" />
-      <br/>
-      <strong>Delphi</strong>
-    </td>
-  </tr>
-</table>
+<img src="./stack/javascript.svg" height="36" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
+<img src="./stack/typescript.svg" height="36" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
+<img src="./stack/react.svg" height="36" alt="React and React Native" title="React · React Native" />&nbsp;&nbsp;&nbsp;
+<img src="./stack/nodedotjs.svg" height="36" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;
+<img src="./stack/vuedotjs.svg" height="36" alt="Vue.js" title="Vue.js" />&nbsp;&nbsp;&nbsp;
+<img src="./stack/svelte.svg" height="36" alt="Svelte" title="Svelte" />&nbsp;&nbsp;&nbsp;
+<img src="./stack/rust.svg" height="36" alt="Rust" title="Rust" />&nbsp;&nbsp;&nbsp;
+<img src="./stack/delphi.svg" height="36" alt="Delphi" title="Delphi" />
 
 </details>
 
