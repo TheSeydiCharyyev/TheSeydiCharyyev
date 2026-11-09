@@ -22,32 +22,13 @@
   <summary>Projects</summary>
   <br/>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://shapak-apps.github.io"><img src="./projects/shapak.gif" width="260" alt="Shapak-Apps: open-source mobile apps built in Turkmenistan" /></a>
-      <br/>
-      <a href="https://shapak-apps.github.io">Visit site</a> &middot; <a href="https://github.com/Shapak-Apps">Organization</a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://proofstone.dev"><img src="./projects/proofstone.gif" width="260" alt="proofstone: engineering roadmaps you can prove" /></a>
-      <br/>
-      <a href="https://proofstone.dev">Visit site</a> &middot; <a href="https://github.com/proofstone">Organization</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" align="center">
-      <a href="https://shapak-apps.github.io/ykjam-terjime/"><img src="./projects/ykjam.gif" width="260" alt="Ykjam Terjime: phrasebook and translator, React Native / Expo" /></a>
-      <br/>
-      <a href="https://apps.apple.com/app/ykjam-terjime/id6758071845"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" alt="Download on the App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.shapak.translator"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" alt="Get it on Google Play" /></a>
-    </td>
-    <td width="50%" valign="top" align="center">
-      <a href="https://github.com/Shapak-Apps/turkmen-chinese"><img src="./projects/hytay.gif" width="260" alt="Hytaý dili 1: Chinese course for Turkmen speakers, React Native / Expo" /></a>
-      <br/>
-      <a href="https://apps.apple.com/app/id6801010061"><img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" height="36" alt="Download on the App Store" /></a>&nbsp;<a href="https://play.google.com/store/apps/details?id=com.turkmenlearn.chinese"><img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" height="36" alt="Get it on Google Play" /></a>
-    </td>
-  </tr>
-</table>
+**[Shapak-Apps](https://shapak-apps.github.io)** — Open Source Turkmenistan Community · [GitHub](https://github.com/Shapak-Apps)
+
+**[proofstone](https://proofstone.dev)** — Engineering roadmaps you can prove · [GitHub](https://github.com/proofstone)
+
+**[Ykjam Terjime](https://shapak-apps.github.io/ykjam-terjime/)** — Phrasebook & translator · [App Store](https://apps.apple.com/app/ykjam-terjime/id6758071845) · [Google Play](https://play.google.com/store/apps/details?id=com.shapak.translator)
+
+**[Hytaý dili 1](https://github.com/Shapak-Apps/turkmen-chinese)** — Chinese course for Turkmen speakers · [App Store](https://apps.apple.com/app/id6801010061) · [Google Play](https://play.google.com/store/apps/details?id=com.turkmenlearn.chinese)
 
 </details>
 
