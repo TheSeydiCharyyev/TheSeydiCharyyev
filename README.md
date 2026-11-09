@@ -45,14 +45,7 @@
   <summary>What I Work With</summary>
   <br/>
 
-<img src="./stack/javascript.svg" height="36" alt="JavaScript" title="JavaScript" />&nbsp;&nbsp;&nbsp;
-<img src="./stack/typescript.svg" height="36" alt="TypeScript" title="TypeScript" />&nbsp;&nbsp;&nbsp;
-<img src="./stack/react.svg" height="36" alt="React and React Native" title="React · React Native" />&nbsp;&nbsp;&nbsp;
-<img src="./stack/nodedotjs.svg" height="36" alt="Node.js" title="Node.js" />&nbsp;&nbsp;&nbsp;
-<img src="./stack/vuedotjs.svg" height="36" alt="Vue.js" title="Vue.js" />&nbsp;&nbsp;&nbsp;
-<img src="./stack/svelte.svg" height="36" alt="Svelte" title="Svelte" />&nbsp;&nbsp;&nbsp;
-<img src="./stack/rust.svg" height="36" alt="Rust" title="Rust" />&nbsp;&nbsp;&nbsp;
-<img src="./stack/delphi.svg" height="36" alt="Delphi" title="Delphi" />
+<img src="./what-i-work-with.svg" width="100%" alt="JavaScript, TypeScript, React, React Native, Node.js, Vue.js, Svelte, Rust, Delphi" />
 
 </details>
 
