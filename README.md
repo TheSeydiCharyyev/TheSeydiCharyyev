@@ -61,7 +61,7 @@
   <summary>Certificates</summary>
   <br/>
 
-**Meta** — [Back-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/ZUQQE38VBPVS) · [Full Stack Developer: Front-End & Back-End from Scratch](https://www.coursera.org/account/accomplishments/specialization/QGPE20YYUIYU) · [Front-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/9P5MCCUGRSEB) · [React](https://www.coursera.org/account/accomplishments/specialization/E9H5KJA68HE9)
+**Meta** — [Back-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/ZUQQE38VBPVS) · [Full Stack Developer](https://www.coursera.org/account/accomplishments/specialization/QGPE20YYUIYU) · [Front-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/9P5MCCUGRSEB) · [React](https://www.coursera.org/account/accomplishments/specialization/E9H5KJA68HE9)
 
 **IBM** — [Full Stack Software Developer](https://www.coursera.org/account/accomplishments/specialization/GHZRJSZH8PQW) · [Full-Stack JavaScript Developer](https://www.coursera.org/account/accomplishments/specialization/FGG6Q56CBHNM) · [JavaScript Backend Developer](https://www.coursera.org/account/accomplishments/professional-cert/2JD3OW2CZPU1) · [Back-End Development](https://www.coursera.org/account/accomplishments/professional-cert/A6QUCYAFSLYD) · [Front-End Developer](https://www.coursera.org/account/accomplishments/professional-cert/Q7GWJUQ4GCN2)
 
