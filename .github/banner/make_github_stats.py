@@ -1,8 +1,10 @@
 """Generates github-stats.svg for the "Github Stats" section of the profile README.
 
 Counts merged pull requests in other people's open-source repositories and draws them by area,
-by language of the changed code, and by framework. Animated once on load (CSS, no loop);
-transparent background and theme-neutral colours, so one file works in light and dark themes.
+by language of the changed code, and by framework. Animated once on load (CSS, no loop).
+A dark panel with its own background (white text, one accent colour), so one file works in light
+and dark themes. No visible total: the totals stay only in the SVG <title> (screen readers; a local
+check script compares them with GitHub).
 
 Run from the repo root (needs an authenticated `gh` CLI):
     python .github/banner/make_github_stats.py
@@ -43,7 +45,7 @@ AREAS = [
     ("Freedom Tech", "(Bitcoin, Lightning, Nostr)", "#f7931a", [
         "ZeusLN/zeus", "aljazceru/awesome-nostr", "divinevideo/divine-web", "divinevideo/divine-moderation-service",
         "divinevideo/divine-name-server", "nostr-protocol/nips", "nbd-wtf/nostr-tools", "VectorPrivacy/Vector",
-        "gitea:coracle/flotilla", "gitea:coracle/welshman"]),
+        "gitea:coracle/flotilla", "gitea:coracle/welshman", "hzrd149/applesauce"]),
     ("React Foundation", "", "#3b8eea", [
         "storybookjs/storybook", "expo/expo", "thereactfoundation/react.foundation", "ant-design/ant-design"]),
     ("Web & mobile", "", "#e5534b", [
@@ -184,111 +186,107 @@ total_lines = sum(lang.values())
 lang_pct = [(k, v / total_lines * 100) for k, v in lang.most_common()]
 
 # ---------------------------------------------------------------- drawing
+# Dark panel with its own background (like the What I Work With cards): white text, one accent colour.
 F = {s: ImageFont.truetype(r"C:\Windows\Fonts\segoeui.ttf", s) for s in (12, 13, 14)}
-FB = {s: ImageFont.truetype(r"C:\Windows\Fonts\segoeuib.ttf", s) for s in (13, 14, 18, 44)}
 
 
-def tw(text, size, bold=False):
-    return (FB if bold else F)[size].getlength(text)
+def tw(text, size):
+    return F[size].getlength(text)
 
 
 def fade(delay):
     return f'class="f" style="animation-delay:{delay:.2f}s"'
 
 
-W = 840
-MUTED = "#7d8590"
-TEXT = "#848d97"
+W, PAD = 840, 28
+IW = W - 2 * PAD
+PANEL, BORDER, TRACK = "#161b22", "#30363d", "#21262d"
+TEXT, SOFT, MUTED, ACCENT = "#e6edf3", "#c9d1d9", "#8b949e", "#4493f8"
+LANG_SHADES = ["#1f6feb", "#4493f8", "#79c0ff", "#a5d6ff", "#cae8ff", "#e1f0ff"]
 el = []
 
-nx = tw(str(len(prs)), 44, True) + 12
-el.append(f'<g {fade(0)}>'
-          f'<text x="0" y="46" class="num">{len(prs)}</text>'
-          f'<text x="{nx:.0f}" y="27" class="h">merged pull requests</text>'
-          f'<text x="{nx:.0f}" y="46" class="sub">across {len(repos)} open-source repositories</text>'
-          f'</g>')
-
-y = 92
-el.append(f'<g {fade(0.25)}><text x="0" y="{y}" class="cap">BY AREA</text></g>')
-y += 24
+y = 11
+el.append(f'<g {fade(0)}><text x="0" y="{y}" class="cap">MERGED PULL REQUESTS BY AREA</text></g>')
+y += 32
 max_n = max(area_n.values())
 BAR_X = 200
-BAR_W = W - BAR_X - 44
+BAR_W = IW - BAR_X - 44
 order = sorted(range(len(AREAS)), key=lambda i: -area_n[i])
 for k, i in enumerate(order):
-    name, subtitle, color, _ = AREAS[i]
-    d = 0.35 + k * 0.12
+    name, subtitle, _, _ = AREAS[i]
+    d = 0.1 + k * 0.1
     n = area_n[i]
     sub = f'<text x="0" y="{y + 17}" class="asub">{escape(subtitle)}</text>' if subtitle else ""
     el.append(f'<g {fade(d)}>'
-              f'<text x="0" y="{y}" class="area" fill="{color}">{escape(name)}</text>{sub}'
-              f'<rect x="{BAR_X}" y="{y - 9}" width="{BAR_W}" height="8" rx="4" class="track"/>'
-              f'<rect x="{BAR_X}" y="{y - 9}" width="{BAR_W * n / max_n:.1f}" height="8" rx="4" fill="{color}" '
-              f'class="bar" style="animation-delay:{d + 0.1:.2f}s"/>'
-              f'<text x="{W}" y="{y}" class="cnt" text-anchor="end">{n}</text>'
+              f'<text x="0" y="{y}" class="area">{escape(name)}</text>{sub}'
+              f'<rect x="{BAR_X}" y="{y - 8}" width="{BAR_W}" height="6" rx="3" class="track"/>'
+              f'<rect x="{BAR_X}" y="{y - 8}" width="{BAR_W * n / max_n:.1f}" height="6" rx="3" class="acc bar" '
+              f'style="animation-delay:{d + 0.1:.2f}s"/>'
+              f'<text x="{IW}" y="{y}" class="cnt" text-anchor="end">{n}</text>'
               f'</g>')
-    y += 50 if subtitle else 34
+    y += 46 if subtitle else 32
 
-y += 14
-d0 = 0.35 + len(AREAS) * 0.12 + 0.1
+y += 18
+d0 = 0.1 + len(AREAS) * 0.1 + 0.1
 el.append(f'<g {fade(d0)}><text x="0" y="{y}" class="cap">LANGUAGES IN MERGED CODE</text></g>')
 y += 14
 x, seg = 0, []
 for k, (name, pct) in enumerate(lang_pct):
-    w = W * pct / 100
-    seg.append(f'<rect x="{x:.1f}" y="{y}" width="{max(w - 2, 1):.1f}" height="8" fill="{LANG_COLOR[name]}" '
-               f'class="bar" style="animation-delay:{d0 + 0.1 + k * 0.12:.2f}s"/>')
+    w = IW * pct / 100
+    seg.append(f'<rect x="{x:.1f}" y="{y}" width="{max(w - 2, 1):.1f}" height="6" fill="{LANG_SHADES[k % len(LANG_SHADES)]}" '
+               f'class="bar" style="animation-delay:{d0 + 0.1 + k * 0.1:.2f}s"/>')
     x += w
 el.append(f'<g>{"".join(seg)}</g>')
-y += 30
+y += 28
 x, leg = 0, []
-for name, pct in lang_pct:
+for k, (name, pct) in enumerate(lang_pct):
     label = f"{name} {pct:.0f}%"
-    leg.append(f'<circle cx="{x + 5}" cy="{y - 4}" r="4.5" fill="{LANG_COLOR[name]}"/>'
+    leg.append(f'<rect x="{x}" y="{y - 9}" width="9" height="9" rx="2" fill="{LANG_SHADES[k % len(LANG_SHADES)]}"/>'
                f'<text x="{x + 15}" y="{y}" class="leg">{label}</text>')
     x += 15 + tw(label, 13) + 26
 el.append(f'<g {fade(d0 + 0.2)}>{"".join(leg)}</g>')
 
-y += 34
-d1 = d0 + 0.5
+y += 36
+d1 = d0 + 0.4
 el.append(f'<g {fade(d1)}><text x="0" y="{y}" class="cap">FRAMEWORKS</text></g>')
 y += 14
 x, row_y, chips = 0, y, []
 for k, (name, c) in enumerate(fw.most_common()):
     w = tw(name, 13) + tw(str(c), 13) + 30
-    if x + w > W:
+    if x + w > IW:
         x, row_y = 0, row_y + 36
-    chips.append(f'<g {fade(d1 + 0.08 + k * 0.05)}>'
-                 f'<rect x="{x:.1f}" y="{row_y}" width="{w:.1f}" height="26" rx="13" class="chip"/>'
+    chips.append(f'<g {fade(d1 + 0.06 + k * 0.04)}>'
+                 f'<rect x="{x:.1f}" y="{row_y}" width="{w:.1f}" height="26" rx="6" class="chip"/>'
                  f'<text x="{x + 12:.1f}" y="{row_y + 17.5}" class="leg">{escape(name)}'
                  f'<tspan class="cntc" dx="6">{c}</tspan></text></g>')
     x += w + 8
 el.append("".join(chips))
-H = row_y + 26 + 4
+H = int(row_y + 26 + 2 * PAD + 1)
 
 STYLE = f"""
 text {{ font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }}
-.num {{ font-size: 44px; font-weight: 700; fill: #3b8eea; }}
-.h {{ font-size: 18px; font-weight: 600; fill: {TEXT}; }}
-.sub {{ font-size: 13px; fill: {MUTED}; }}
 .cap {{ font-size: 11px; font-weight: 600; letter-spacing: .12em; fill: {MUTED}; }}
-.area {{ font-size: 14px; font-weight: 600; }}
+.area {{ font-size: 14px; font-weight: 500; fill: {TEXT}; }}
 .asub {{ font-size: 12px; fill: {MUTED}; }}
-.cnt {{ font-size: 13px; font-weight: 700; fill: {TEXT}; }}
-.leg {{ font-size: 13px; fill: {TEXT}; }}
-.cntc {{ font-weight: 700; fill: {MUTED}; }}
-.track {{ fill: {MUTED}; fill-opacity: .18; }}
-.chip {{ fill: {MUTED}; fill-opacity: .10; stroke: {MUTED}; stroke-opacity: .35; }}
+.cnt {{ font-size: 14px; font-weight: 600; fill: {TEXT}; }}
+.leg {{ font-size: 13px; fill: {SOFT}; }}
+.cntc {{ font-weight: 600; fill: {MUTED}; }}
+.track {{ fill: {TRACK}; }}
+.acc {{ fill: {ACCENT}; }}
+.chip {{ fill: {TRACK}; stroke: {BORDER}; }}
 .f {{ animation: fadeUp .6s cubic-bezier(.2,.8,.2,1) both; }}
 .bar {{ transform-box: fill-box; transform-origin: left center; animation: grow .9s cubic-bezier(.2,.8,.2,1) both; }}
 @keyframes fadeUp {{ from {{ opacity: 0; transform: translateY(6px); }} to {{ opacity: 1; transform: none; }} }}
 @keyframes grow {{ from {{ transform: scaleX(0); }} to {{ transform: scaleX(1); }} }}
 @media (prefers-reduced-motion: reduce) {{ .f, .bar {{ animation: none; }} }}
 """
+# the visible total is gone (user's choice); the numbers stay in <title> for screen readers
+# and for workspace/check_stats.py, which compares them with GitHub
 title = f"{len(prs)} merged pull requests across {len(repos)} open-source repositories"
 svg = (f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}" viewBox="0 0 {W} {H}" '
-       f'role="img" aria-labelledby="t"><title id="t">{title}</title>'
-       f'<style>{STYLE}</style>{"".join(el)}</svg>\n')
+       f'role="img" aria-labelledby="t"><title id="t">{title}</title><style>{STYLE}</style>'
+       f'<rect x="0.5" y="0.5" width="{W - 1}" height="{H - 1}" rx="16" fill="{PANEL}" stroke="{BORDER}"/>'
+       f'<g transform="translate({PAD},{PAD})">{"".join(el)}</g></svg>\n')
 with open(OUT, "w", encoding="utf-8", newline="\n") as fh:
     fh.write(svg)
 print(f"{OUT}: {title}")
